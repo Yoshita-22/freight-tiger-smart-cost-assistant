@@ -51,6 +51,10 @@ STRICT RULES:
 
 5. If the note explicitly or clearly states that an event affected
    the requested week, it may be considered temporally applicable.
+   A note is valid evidence only if its stated time period explicitly 
+   overlaps the anomalous week, or if the note clearly states that the condition
+   remains in effect beyond its publication date. Do not assume that an event continues 
+   indefinitely.
 
 6. The note must provide evidence of a factor that could increase
    freight, transportation, or shipping cost.
