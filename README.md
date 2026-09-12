@@ -113,8 +113,6 @@ freight-tiger-smart-cost-assistant/
 │       └── pipeline.py
 │
 ├── tests/
-│   ├── test_numerical_correctness.py
-│   ├── test_evidence_grounding.py
 │   └── eval_evidence.py
 │
 ├── output/
@@ -247,15 +245,7 @@ uv run python index_notes.py
 This creates the Qdrant collection containing the embedded context notes.
 ## Testing & Evaluation
 
-### 1. Numerical Unit Tests
-Tests the correctness of weekly cost calculations, historical baselines,
-similar-route comparisons, and anomaly detection.
-
-### 2. Evidence Validation Tests
-Tests the RAG/LLM evidence guardrails, including invalid citations,
-unsupported evidence, and hallucinated note IDs.
-
-### 3. Golden Dataset Evaluation
+###  Golden Dataset Evaluation
 Golden Set Design
 
 The golden set contains positive and negative evidence cases.
