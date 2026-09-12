@@ -347,25 +347,32 @@ cost =
 +
 (output_tokens / 1,000,000 × output_price)
 ```
-Reliability Strategy
-The system does not rely on a single LLM response.
-Reliability is achieved through multiple layers:
-Layer 1 — Deterministic numerical calculations
-Cost calculations, baselines and anomaly detection are implemented in code.
-Layer 2 — Metadata-constrained retrieval
+## Reliability Strategy
+
+The system does not rely on a single LLM response. Reliability is achieved through multiple layers:
+
+### Layer 1 — Deterministic Numerical Calculations
+Cost calculations, baselines, and anomaly detection are implemented in code.
+
+### Layer 2 — Metadata-Constrained Retrieval
 Only relevant route/scope notes are retrieved.
-Layer 3 — Semantic retrieval
+
+### Layer 3 — Semantic Retrieval
 Relevant context is selected using embeddings.
-Layer 4 — Strict evidence prompt
+
+### Layer 4 — Strict Evidence Prompt
 The LLM is explicitly instructed not to invent facts or causal explanations.
-Layer 5 — Deterministic output validation
+
+### Layer 5 — Deterministic Output Validation
 The cited note ID must exist in the retrieved context.
-Layer 6 — Fail-closed behavior
+
+### Layer 6 — Fail-Closed Behavior
 If evidence cannot be validated, the anomaly remains flagged.
-Layer 7 — Golden-set evaluation
+
+### Layer 7 — Golden-Set Evaluation
 The evidence-validation layer is evaluated against manually labeled cases.
-The goal is not to claim 100% reliability.
-The goal is to make failures constrained, detectable and measurable.
+
+> The goal is not to claim 100% reliability, but to make failures constrained, detectable, and measurable.
 
 
 ## Assumptions
