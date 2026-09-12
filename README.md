@@ -404,21 +404,19 @@ A production system could improve this by storing:
 valid_from
 valid_to
 ```
-as structured metadata.
-
-LLM Dependency
+### LLM Dependency
 
 Evidence validation depends on an external LLM provider.
 
 API rate limits, quotas, or outages can affect the evidence-validation stage. The system uses fallback providers and fail-closed behavior.
 
-Small Context Corpus
+### Small Context Corpus
 
 The supplied context-note dataset is small.
 
 For a production system with thousands of notes, additional retrieval optimization and indexing strategies would be useful.
 
-Threshold Selection
+### Threshold Selection
 
 The assignment does not prescribe a numerical anomaly threshold.
 
@@ -426,7 +424,7 @@ The current 10% threshold is an engineering choice and is configurable.
 
 A production system could learn thresholds from historical distributions, route categories, or business-defined risk tolerances.
 
-Natural-Language Questions
+### Natural-Language Questions
 
 Supporting arbitrary natural-language questions is a stretch goal and is not required for the core pipeline.
 
