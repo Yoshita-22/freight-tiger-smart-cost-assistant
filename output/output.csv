@@ -1,0 +1,729 @@
+route,week_of,cost_per_tonne_km,vs_own_history,vs_similar_routes,flagged,matched_note_id,reason
+Ahmedabad-Mumbai,2024-01-01,2.495784199417673,,-3.94,No,,Cost is within the expected range based on -3.9% versus similar routes.
+Ahmedabad-Mumbai,2024-01-08,2.5722313736269795,3.06,-4.77,No,,Cost is within the expected range based on 3.1% versus its own historical baseline and -4.8% versus similar routes.
+Ahmedabad-Mumbai,2024-01-15,2.5653438871138845,1.24,-0.81,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and -0.8% versus similar routes.
+Ahmedabad-Mumbai,2024-01-22,2.6695451378459447,4.92,-0.25,No,,Cost is within the expected range based on 4.9% versus its own historical baseline and -0.2% versus similar routes.
+Ahmedabad-Mumbai,2024-01-29,2.4929285864853075,-3.21,-6.18,No,,Cost is within the expected range based on -3.2% versus its own historical baseline and -6.2% versus similar routes.
+Ahmedabad-Mumbai,2024-02-05,2.5443958960521584,-0.58,-4.92,No,,Cost is within the expected range based on -0.6% versus its own historical baseline and -4.9% versus similar routes.
+Ahmedabad-Mumbai,2024-02-12,2.475244921036608,-3.19,-9.6,No,,Cost is within the expected range based on -3.2% versus its own historical baseline and -9.6% versus similar routes.
+Ahmedabad-Mumbai,2024-02-19,2.4752293881372753,-2.74,-8.13,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and -8.1% versus similar routes.
+Ahmedabad-Mumbai,2024-02-26,2.5672602877553072,1.22,-2.62,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and -2.6% versus similar routes.
+Ahmedabad-Mumbai,2024-03-04,2.5223042809821674,-0.9,-2.03,No,,Cost is within the expected range based on -0.9% versus its own historical baseline and -2.0% versus similar routes.
+Ahmedabad-Mumbai,2024-03-11,2.620870539208354,3.22,-3.63,No,,Cost is within the expected range based on 3.2% versus its own historical baseline and -3.6% versus similar routes.
+Ahmedabad-Mumbai,2024-03-18,2.526483478351034,-0.77,-4.37,No,,Cost is within the expected range based on -0.8% versus its own historical baseline and -4.4% versus similar routes.
+Ahmedabad-Mumbai,2024-03-25,2.645671387791672,4.65,-2.13,No,,Cost is within the expected range based on 4.7% versus its own historical baseline and -2.1% versus similar routes.
+Ahmedabad-Mumbai,2024-04-01,2.5564909956508166,0.37,-2.14,No,,Cost is within the expected range based on 0.4% versus its own historical baseline and -2.1% versus similar routes.
+Ahmedabad-Mumbai,2024-04-08,2.5913201280882343,1.67,-2.31,No,,Cost is within the expected range based on 1.7% versus its own historical baseline and -2.3% versus similar routes.
+Ahmedabad-Mumbai,2024-04-15,2.4576990297985284,-4.12,-7.23,No,,Cost is within the expected range based on -4.1% versus its own historical baseline and -7.2% versus similar routes.
+Ahmedabad-Mumbai,2024-04-22,2.6757852025311504,4.48,4.34,No,,Cost is within the expected range based on 4.5% versus its own historical baseline and 4.3% versus similar routes.
+Ahmedabad-Mumbai,2024-04-29,2.5210603611574927,-2.08,-4.29,No,,Cost is within the expected range based on -2.1% versus its own historical baseline and -4.3% versus similar routes.
+Ahmedabad-Mumbai,2024-05-06,2.5989451443532863,0.95,-0.43,No,,Cost is within the expected range based on 1.0% versus its own historical baseline and -0.4% versus similar routes.
+Ahmedabad-Mumbai,2024-05-13,2.654075523680244,3.2,-0.01,No,,Cost is within the expected range based on 3.2% versus its own historical baseline and -0.0% versus similar routes.
+Ahmedabad-Mumbai,2024-05-20,2.5790150726984797,-0.33,-4.51,No,,Cost is within the expected range based on -0.3% versus its own historical baseline and -4.5% versus similar routes.
+Ahmedabad-Mumbai,2024-05-27,2.4944184648059418,-3.29,-6.28,No,,Cost is within the expected range based on -3.3% versus its own historical baseline and -6.3% versus similar routes.
+Ahmedabad-Mumbai,2024-06-03,2.4828485992110574,-3.45,-7.34,No,,Cost is within the expected range based on -3.4% versus its own historical baseline and -7.3% versus similar routes.
+Ahmedabad-Mumbai,2024-06-10,2.4430930329711313,-4.49,-3.88,No,,Cost is within the expected range based on -4.5% versus its own historical baseline and -3.9% versus similar routes.
+Ahmedabad-Mumbai,2024-06-17,2.5107676956369787,-1.78,-6.78,No,,Cost is within the expected range based on -1.8% versus its own historical baseline and -6.8% versus similar routes.
+Ahmedabad-Mumbai,2024-06-24,2.6196755643942744,3.32,-2.17,No,,Cost is within the expected range based on 3.3% versus its own historical baseline and -2.2% versus similar routes.
+Ahmedabad-Mumbai,2024-07-01,2.6243786222174967,3.0,-0.95,No,,Cost is within the expected range based on 3.0% versus its own historical baseline and -0.9% versus similar routes.
+Ahmedabad-Mumbai,2024-07-08,2.587742964349953,1.44,-2.43,No,,Cost is within the expected range based on 1.4% versus its own historical baseline and -2.4% versus similar routes.
+Ahmedabad-Mumbai,2024-07-15,2.5568859120809844,0.56,-6.33,No,,Cost is within the expected range based on 0.6% versus its own historical baseline and -6.3% versus similar routes.
+Ahmedabad-Mumbai,2024-07-22,2.524369882591796,-0.61,-4.86,No,,Cost is within the expected range based on -0.6% versus its own historical baseline and -4.9% versus similar routes.
+Ahmedabad-Mumbai,2024-07-29,2.437960242487355,-4.16,-9.02,No,,Cost is within the expected range based on -4.2% versus its own historical baseline and -9.0% versus similar routes.
+Ahmedabad-Mumbai,2024-08-05,2.51422723228047,-0.94,-5.15,No,,Cost is within the expected range based on -0.9% versus its own historical baseline and -5.1% versus similar routes.
+Ahmedabad-Mumbai,2024-08-12,2.442096463494508,-4.12,-8.75,No,,Cost is within the expected range based on -4.1% versus its own historical baseline and -8.8% versus similar routes.
+Ahmedabad-Mumbai,2024-08-19,2.6614461572050545,4.85,-1.33,No,,Cost is within the expected range based on 4.8% versus its own historical baseline and -1.3% versus similar routes.
+Ahmedabad-Mumbai,2024-08-26,2.5779351939674866,1.35,-0.64,No,,Cost is within the expected range based on 1.3% versus its own historical baseline and -0.6% versus similar routes.
+Ahmedabad-Mumbai,2024-09-02,2.50964049116151,-1.11,-1.68,No,,Cost is within the expected range based on -1.1% versus its own historical baseline and -1.7% versus similar routes.
+Ahmedabad-Mumbai,2024-09-09,2.5071945188556484,-0.83,-5.17,No,,Cost is within the expected range based on -0.8% versus its own historical baseline and -5.2% versus similar routes.
+Ahmedabad-Mumbai,2024-09-16,2.5879459086833663,2.62,-3.35,No,,Cost is within the expected range based on 2.6% versus its own historical baseline and -3.3% versus similar routes.
+Ahmedabad-Mumbai,2024-09-23,2.4824311632924037,-1.87,-7.18,No,,Cost is within the expected range based on -1.9% versus its own historical baseline and -7.2% versus similar routes.
+Ahmedabad-Mumbai,2024-09-30,2.4886278923794034,-1.84,-6.69,No,,Cost is within the expected range based on -1.8% versus its own historical baseline and -6.7% versus similar routes.
+Ahmedabad-Mumbai,2024-10-07,2.492086513725532,-1.58,-7.89,No,,Cost is within the expected range based on -1.6% versus its own historical baseline and -7.9% versus similar routes.
+Ahmedabad-Mumbai,2024-10-14,2.472296969534172,-2.6,-5.81,No,,Cost is within the expected range based on -2.6% versus its own historical baseline and -5.8% versus similar routes.
+Ahmedabad-Mumbai,2024-10-21,2.5550538878508284,1.6,-5.28,No,,Cost is within the expected range based on 1.6% versus its own historical baseline and -5.3% versus similar routes.
+Ahmedabad-Mumbai,2024-10-28,2.672612582109468,6.4,4.25,No,,Cost is within the expected range based on 6.4% versus its own historical baseline and 4.3% versus similar routes.
+Ahmedabad-Mumbai,2024-11-04,2.521688348143562,-0.42,-4.68,No,,Cost is within the expected range based on -0.4% versus its own historical baseline and -4.7% versus similar routes.
+Ahmedabad-Mumbai,2024-11-11,2.584997698857649,2.01,-3.46,No,,Cost is within the expected range based on 2.0% versus its own historical baseline and -3.5% versus similar routes.
+Ahmedabad-Mumbai,2024-11-18,2.5948623833166735,2.41,-2.37,No,,Cost is within the expected range based on 2.4% versus its own historical baseline and -2.4% versus similar routes.
+Ahmedabad-Mumbai,2024-11-25,2.5970471591761854,1.93,-4.24,No,,Cost is within the expected range based on 1.9% versus its own historical baseline and -4.2% versus similar routes.
+Ahmedabad-Mumbai,2024-12-02,2.4966992780677093,-2.52,-5.72,No,,Cost is within the expected range based on -2.5% versus its own historical baseline and -5.7% versus similar routes.
+Ahmedabad-Mumbai,2024-12-09,2.485843656148507,-2.97,-3.59,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and -3.6% versus similar routes.
+Ahmedabad-Mumbai,2024-12-16,2.4521279325953174,-4.35,-7.02,No,,Cost is within the expected range based on -4.3% versus its own historical baseline and -7.0% versus similar routes.
+Ahmedabad-Mumbai,2024-12-23,2.6329417251666545,3.22,-3.41,No,,Cost is within the expected range based on 3.2% versus its own historical baseline and -3.4% versus similar routes.
+Ahmedabad-Mumbai,2024-12-30,2.547775311575309,0.08,-4.98,No,,Cost is within the expected range based on 0.1% versus its own historical baseline and -5.0% versus similar routes.
+Ahmedabad-Mumbai,2025-01-06,2.5134644928307885,-1.4,-3.92,No,,Cost is within the expected range based on -1.4% versus its own historical baseline and -3.9% versus similar routes.
+Ahmedabad-Mumbai,2025-01-13,2.604915033401009,2.55,-0.21,No,,Cost is within the expected range based on 2.6% versus its own historical baseline and -0.2% versus similar routes.
+Ahmedabad-Mumbai,2025-01-20,3.290367187391166,29.47,22.49,No,N002,Note N002 applies to the Ahmedabad-Mumbai route for the week of 2025-01-20 and explains that transporters applied a temporary surcharge due to high demand and limited truck availability during a regional festival week.
+Ahmedabad-Mumbai,2025-01-27,2.4608172719573984,-6.36,-7.32,No,,Cost is within the expected range based on -6.4% versus its own historical baseline and -7.3% versus similar routes.
+Ahmedabad-Mumbai,2025-02-03,2.4939837389811585,-4.94,-4.55,No,,Cost is within the expected range based on -4.9% versus its own historical baseline and -4.6% versus similar routes.
+Ahmedabad-Mumbai,2025-02-10,2.4431156631736823,-6.91,-8.74,No,,Cost is within the expected range based on -6.9% versus its own historical baseline and -8.7% versus similar routes.
+Ahmedabad-Mumbai,2025-02-17,2.5079321148727853,-4.4,-8.61,No,,Cost is within the expected range based on -4.4% versus its own historical baseline and -8.6% versus similar routes.
+Ahmedabad-Mumbai,2025-02-24,2.5039535981510816,-3.98,-19.83,No,,Cost is within the expected range based on -4.0% versus its own historical baseline and -19.8% versus similar routes.
+Ahmedabad-Mumbai,2025-03-03,2.5908570207997146,-0.44,-15.79,No,,Cost is within the expected range based on -0.4% versus its own historical baseline and -15.8% versus similar routes.
+Ahmedabad-Mumbai,2025-03-10,2.637082035573631,0.96,-15.91,No,,Cost is within the expected range based on 1.0% versus its own historical baseline and -15.9% versus similar routes.
+Ahmedabad-Mumbai,2025-03-17,2.658672560775646,1.63,-11.51,No,,Cost is within the expected range based on 1.6% versus its own historical baseline and -11.5% versus similar routes.
+Ahmedabad-Mumbai,2025-03-24,2.436154377970464,-3.98,-8.34,No,,Cost is within the expected range based on -4.0% versus its own historical baseline and -8.3% versus similar routes.
+Ahmedabad-Mumbai,2025-03-31,2.613904546077844,3.15,-3.73,No,,Cost is within the expected range based on 3.2% versus its own historical baseline and -3.7% versus similar routes.
+Ahmedabad-Mumbai,2025-04-07,2.4947957921086084,-2.12,-6.23,No,,Cost is within the expected range based on -2.1% versus its own historical baseline and -6.2% versus similar routes.
+Ahmedabad-Mumbai,2025-04-14,2.445059188880623,-4.32,-7.25,No,,Cost is within the expected range based on -4.3% versus its own historical baseline and -7.2% versus similar routes.
+Ahmedabad-Mumbai,2025-04-21,2.592997592230395,1.78,-0.0,No,,Cost is within the expected range based on 1.8% versus its own historical baseline and -0.0% versus similar routes.
+Ahmedabad-Mumbai,2025-04-28,2.6512223578847594,3.62,0.58,No,,Cost is within the expected range based on 3.6% versus its own historical baseline and 0.6% versus similar routes.
+Ahmedabad-Mumbai,2025-05-05,2.593351211770359,1.06,-8.78,No,,Cost is within the expected range based on 1.1% versus its own historical baseline and -8.8% versus similar routes.
+Ahmedabad-Mumbai,2025-05-12,2.605234051602406,1.74,-6.68,No,,Cost is within the expected range based on 1.7% versus its own historical baseline and -6.7% versus similar routes.
+Ahmedabad-Mumbai,2025-05-19,2.6337146563758265,3.12,-5.7,No,,Cost is within the expected range based on 3.1% versus its own historical baseline and -5.7% versus similar routes.
+Ahmedabad-Mumbai,2025-05-26,2.6167675744345544,1.47,-6.87,No,,Cost is within the expected range based on 1.5% versus its own historical baseline and -6.9% versus similar routes.
+Ahmedabad-Mumbai,2025-06-02,2.6421222588736364,2.44,-5.98,No,,Cost is within the expected range based on 2.4% versus its own historical baseline and -6.0% versus similar routes.
+Ahmedabad-Mumbai,2025-06-09,2.7466788925168855,5.74,-0.59,No,,Cost is within the expected range based on 5.7% versus its own historical baseline and -0.6% versus similar routes.
+Ahmedabad-Mumbai,2025-06-16,2.811372315039829,6.68,0.08,No,,Cost is within the expected range based on 6.7% versus its own historical baseline and 0.1% versus similar routes.
+Ahmedabad-Mumbai,2025-06-23,2.798513326919826,5.11,1.16,No,,Cost is within the expected range based on 5.1% versus its own historical baseline and 1.2% versus similar routes.
+Ahmedabad-Mumbai,2025-06-30,2.7102937953032056,1.09,-1.67,No,,Cost is within the expected range based on 1.1% versus its own historical baseline and -1.7% versus similar routes.
+Ahmedabad-Mumbai,2025-07-07,2.685971182764221,-0.36,-6.86,No,,Cost is within the expected range based on -0.4% versus its own historical baseline and -6.9% versus similar routes.
+Ahmedabad-Mumbai,2025-07-14,2.69073083232538,-0.55,-2.56,No,,Cost is within the expected range based on -0.6% versus its own historical baseline and -2.6% versus similar routes.
+Ahmedabad-Mumbai,2025-07-21,2.7976317327229907,3.13,-1.27,No,,Cost is within the expected range based on 3.1% versus its own historical baseline and -1.3% versus similar routes.
+Ahmedabad-Mumbai,2025-07-28,2.678357343287258,-2.09,-2.4,No,,Cost is within the expected range based on -2.1% versus its own historical baseline and -2.4% versus similar routes.
+Ahmedabad-Mumbai,2025-08-04,2.6689409389468324,-2.59,-4.71,No,,Cost is within the expected range based on -2.6% versus its own historical baseline and -4.7% versus similar routes.
+Ahmedabad-Mumbai,2025-08-11,2.627689213371858,-3.76,-6.08,No,,Cost is within the expected range based on -3.8% versus its own historical baseline and -6.1% versus similar routes.
+Ahmedabad-Mumbai,2025-08-18,2.6105086370904855,-3.57,-8.48,No,,Cost is within the expected range based on -3.6% versus its own historical baseline and -8.5% versus similar routes.
+Ahmedabad-Mumbai,2025-08-25,2.623613955648964,-2.24,-7.66,No,,Cost is within the expected range based on -2.2% versus its own historical baseline and -7.7% versus similar routes.
+Ahmedabad-Mumbai,2025-09-01,2.713382725641261,1.51,-2.07,No,,Cost is within the expected range based on 1.5% versus its own historical baseline and -2.1% versus similar routes.
+Ahmedabad-Mumbai,2025-09-08,2.6256082859812953,-1.9,-4.94,No,,Cost is within the expected range based on -1.9% versus its own historical baseline and -4.9% versus similar routes.
+Ahmedabad-Mumbai,2025-09-15,2.8014841601451,4.99,-2.83,No,,Cost is within the expected range based on 5.0% versus its own historical baseline and -2.8% versus similar routes.
+Ahmedabad-Mumbai,2025-09-22,2.6439898620320768,-0.93,-5.49,No,,Cost is within the expected range based on -0.9% versus its own historical baseline and -5.5% versus similar routes.
+Ahmedabad-Mumbai,2025-09-29,2.703913440042561,1.48,-5.75,No,,Cost is within the expected range based on 1.5% versus its own historical baseline and -5.7% versus similar routes.
+Ahmedabad-Mumbai,2025-10-06,2.748357337721765,2.98,-2.77,No,,Cost is within the expected range based on 3.0% versus its own historical baseline and -2.8% versus similar routes.
+Ahmedabad-Mumbai,2025-10-13,2.7203148875756535,1.36,-1.99,No,,Cost is within the expected range based on 1.4% versus its own historical baseline and -2.0% versus similar routes.
+Ahmedabad-Mumbai,2025-10-20,2.742886889824357,1.68,-1.02,No,,Cost is within the expected range based on 1.7% versus its own historical baseline and -1.0% versus similar routes.
+Ahmedabad-Mumbai,2025-10-27,2.668882723312132,-1.61,-3.97,No,,Cost is within the expected range based on -1.6% versus its own historical baseline and -4.0% versus similar routes.
+Ahmedabad-Mumbai,2025-11-03,2.7409921596553866,1.26,-3.68,No,,Cost is within the expected range based on 1.3% versus its own historical baseline and -3.7% versus similar routes.
+Ahmedabad-Mumbai,2025-11-10,2.607372428295952,-4.19,-7.42,No,,Cost is within the expected range based on -4.2% versus its own historical baseline and -7.4% versus similar routes.
+Ahmedabad-Mumbai,2025-11-17,2.7477278129607905,1.88,-1.21,No,,Cost is within the expected range based on 1.9% versus its own historical baseline and -1.2% versus similar routes.
+Ahmedabad-Mumbai,2025-11-24,2.6086553359692317,-3.74,-7.13,No,,Cost is within the expected range based on -3.7% versus its own historical baseline and -7.1% versus similar routes.
+Ahmedabad-Mumbai,2025-12-01,2.7869759788660233,3.29,-0.39,No,,Cost is within the expected range based on 3.3% versus its own historical baseline and -0.4% versus similar routes.
+Ahmedabad-Mumbai,2025-12-08,2.797142072637693,3.48,-1.99,No,,Cost is within the expected range based on 3.5% versus its own historical baseline and -2.0% versus similar routes.
+Ahmedabad-Mumbai,2025-12-15,2.731910684807641,0.71,-3.58,No,,Cost is within the expected range based on 0.7% versus its own historical baseline and -3.6% versus similar routes.
+Ahmedabad-Mumbai,2025-12-22,2.735441133303447,0.89,-3.36,No,,Cost is within the expected range based on 0.9% versus its own historical baseline and -3.4% versus similar routes.
+Chennai-Bangalore,2024-01-01,2.688906669949324,,7.49,No,,Cost is within the expected range based on 7.5% versus similar routes.
+Chennai-Bangalore,2024-01-08,2.774770369852967,3.19,6.73,No,,Cost is within the expected range based on 3.2% versus its own historical baseline and 6.7% versus similar routes.
+Chennai-Bangalore,2024-01-15,2.665340871565259,-2.43,5.09,No,,Cost is within the expected range based on -2.4% versus its own historical baseline and 5.1% versus similar routes.
+Chennai-Bangalore,2024-01-22,2.7777247303662485,2.51,5.94,No,,Cost is within the expected range based on 2.5% versus its own historical baseline and 5.9% versus similar routes.
+Chennai-Bangalore,2024-01-29,2.6897423730212298,-1.35,5.11,No,,Cost is within the expected range based on -1.4% versus its own historical baseline and 5.1% versus similar routes.
+Chennai-Bangalore,2024-02-05,2.688113534402345,-1.15,3.22,No,,Cost is within the expected range based on -1.1% versus its own historical baseline and 3.2% versus similar routes.
+Chennai-Bangalore,2024-02-12,2.77406204554416,2.21,7.17,No,,Cost is within the expected range based on 2.2% versus its own historical baseline and 7.2% versus similar routes.
+Chennai-Bangalore,2024-02-19,2.696484817842679,-0.96,4.36,No,,Cost is within the expected range based on -1.0% versus its own historical baseline and 4.4% versus similar routes.
+Chennai-Bangalore,2024-02-26,2.623696689755433,-3.52,0.6,No,,Cost is within the expected range based on -3.5% versus its own historical baseline and 0.6% versus similar routes.
+Chennai-Bangalore,2024-03-04,2.639839080358959,-2.63,4.93,No,,Cost is within the expected range based on -2.6% versus its own historical baseline and 4.9% versus similar routes.
+Chennai-Bangalore,2024-03-11,2.7697168172163056,2.8,4.71,No,,Cost is within the expected range based on 2.8% versus its own historical baseline and 4.7% versus similar routes.
+Chennai-Bangalore,2024-03-18,2.5943807632661158,-4.18,-0.52,No,,Cost is within the expected range based on -4.2% versus its own historical baseline and -0.5% versus similar routes.
+Chennai-Bangalore,2024-03-25,2.733085023816408,1.81,2.77,No,,Cost is within the expected range based on 1.8% versus its own historical baseline and 2.8% versus similar routes.
+Chennai-Bangalore,2024-04-01,2.7071448157783857,0.64,6.7,No,,Cost is within the expected range based on 0.6% versus its own historical baseline and 6.7% versus similar routes.
+Chennai-Bangalore,2024-04-08,2.7560416668369943,2.37,7.23,No,,Cost is within the expected range based on 2.4% versus its own historical baseline and 7.2% versus similar routes.
+Chennai-Bangalore,2024-04-15,2.6811542842260896,-0.33,5.66,No,,Cost is within the expected range based on -0.3% versus its own historical baseline and 5.7% versus similar routes.
+Chennai-Bangalore,2024-04-22,2.59148788100958,-3.6,-0.58,No,,Cost is within the expected range based on -3.6% versus its own historical baseline and -0.6% versus similar routes.
+Chennai-Bangalore,2024-04-29,2.728648328399294,1.66,7.85,No,,Cost is within the expected range based on 1.7% versus its own historical baseline and 7.8% versus similar routes.
+Chennai-Bangalore,2024-05-06,2.5627365402318056,-4.92,-2.49,No,,Cost is within the expected range based on -4.9% versus its own historical baseline and -2.5% versus similar routes.
+Chennai-Bangalore,2024-05-13,2.7583193483119177,3.33,6.0,No,,Cost is within the expected range based on 3.3% versus its own historical baseline and 6.0% versus similar routes.
+Chennai-Bangalore,2024-05-20,2.672829403020732,-0.63,0.72,No,,Cost is within the expected range based on -0.6% versus its own historical baseline and 0.7% versus similar routes.
+Chennai-Bangalore,2024-05-27,2.7255821564472646,1.61,7.05,No,,Cost is within the expected range based on 1.6% versus its own historical baseline and 7.1% versus similar routes.
+Chennai-Bangalore,2024-06-03,2.7630784899128815,2.92,8.81,No,,Cost is within the expected range based on 2.9% versus its own historical baseline and 8.8% versus similar routes.
+Chennai-Bangalore,2024-06-10,2.6041881884087914,-3.03,5.82,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and 5.8% versus similar routes.
+Chennai-Bangalore,2024-06-17,2.8052977771518233,4.84,10.18,Yes,,"Cost is unusually high based on 4.8% versus its own historical baseline and 10.2% versus similar routes. None of the retrieved notes are dated in or refer to the week of 2024-06-17; they pertain to events in 2025, so they do not provide a documented explanation for the cost increase in the requested week."
+Chennai-Bangalore,2024-06-24,2.6543919931965765,-1.78,-0.22,No,,Cost is within the expected range based on -1.8% versus its own historical baseline and -0.2% versus similar routes.
+Chennai-Bangalore,2024-07-01,2.7647584671186767,2.65,7.19,No,,Cost is within the expected range based on 2.7% versus its own historical baseline and 7.2% versus similar routes.
+Chennai-Bangalore,2024-07-08,2.6769245505848325,-1.53,2.66,No,,Cost is within the expected range based on -1.5% versus its own historical baseline and 2.7% versus similar routes.
+Chennai-Bangalore,2024-07-15,2.776951196859113,2.53,6.01,No,,Cost is within the expected range based on 2.5% versus its own historical baseline and 6.0% versus similar routes.
+Chennai-Bangalore,2024-07-22,2.6551424301072686,-2.43,2.6,No,,Cost is within the expected range based on -2.4% versus its own historical baseline and 2.6% versus similar routes.
+Chennai-Bangalore,2024-07-29,2.774044053995563,2.27,10.45,Yes,,Cost is unusually high based on 2.3% versus its own historical baseline and 10.5% versus similar routes. None of the retrieved notes are temporally applicable to the week of 2024-07-29; all notes are dated in 2025 and do not cover the requested period.
+Chennai-Bangalore,2024-08-05,2.618004843801685,-3.54,0.74,No,,Cost is within the expected range based on -3.5% versus its own historical baseline and 0.7% versus similar routes.
+Chennai-Bangalore,2024-08-12,2.793565130556011,2.87,11.71,Yes,,"Cost is unusually high based on 2.9% versus its own historical baseline and 11.7% versus similar routes. None of the retrieved notes are dated or temporally relevant to the week of 2024-08-12, so they do not provide a documented explanation for the cost increase on the Chennai-Bangalore route."
+Chennai-Bangalore,2024-08-19,2.762501343193522,1.78,4.38,No,,Cost is within the expected range based on 1.8% versus its own historical baseline and 4.4% versus similar routes.
+Chennai-Bangalore,2024-08-26,2.6712349239515842,-2.07,4.85,No,,Cost is within the expected range based on -2.1% versus its own historical baseline and 4.8% versus similar routes.
+Chennai-Bangalore,2024-09-02,2.5579690683744025,-5.82,1.17,No,,Cost is within the expected range based on -5.8% versus its own historical baseline and 1.2% versus similar routes.
+Chennai-Bangalore,2024-09-09,2.7098953114457216,0.32,6.58,No,,Cost is within the expected range based on 0.3% versus its own historical baseline and 6.6% versus similar routes.
+Chennai-Bangalore,2024-09-16,2.6609828252415646,-1.18,0.75,No,,Cost is within the expected range based on -1.2% versus its own historical baseline and 0.8% versus similar routes.
+Chennai-Bangalore,2024-09-23,2.630695296110548,-2.33,1.17,No,,Cost is within the expected range based on -2.3% versus its own historical baseline and 1.2% versus similar routes.
+Chennai-Bangalore,2024-09-30,2.6337765861419533,-1.56,1.51,No,,Cost is within the expected range based on -1.6% versus its own historical baseline and 1.5% versus similar routes.
+Chennai-Bangalore,2024-10-07,2.7107197686041515,1.24,4.41,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and 4.4% versus similar routes.
+Chennai-Bangalore,2024-10-14,2.6281864327726945,-1.46,3.19,No,,Cost is within the expected range based on -1.5% versus its own historical baseline and 3.2% versus similar routes.
+Chennai-Bangalore,2024-10-21,2.7217984457396045,2.69,4.12,No,,Cost is within the expected range based on 2.7% versus its own historical baseline and 4.1% versus similar routes.
+Chennai-Bangalore,2024-10-28,2.599817438047263,-2.14,-0.01,No,,Cost is within the expected range based on -2.1% versus its own historical baseline and -0.0% versus similar routes.
+Chennai-Bangalore,2024-11-04,2.729629979954671,2.54,7.4,No,,Cost is within the expected range based on 2.5% versus its own historical baseline and 7.4% versus similar routes.
+Chennai-Bangalore,2024-11-11,2.749091490542296,3.18,5.91,No,,Cost is within the expected range based on 3.2% versus its own historical baseline and 5.9% versus similar routes.
+Chennai-Bangalore,2024-11-18,2.7689253848307924,3.49,7.71,No,,Cost is within the expected range based on 3.5% versus its own historical baseline and 7.7% versus similar routes.
+Chennai-Bangalore,2024-11-25,2.758223560499289,2.43,4.82,No,,Cost is within the expected range based on 2.4% versus its own historical baseline and 4.8% versus similar routes.
+Chennai-Bangalore,2024-12-02,2.7328302641646225,0.91,8.02,No,,Cost is within the expected range based on 0.9% versus its own historical baseline and 8.0% versus similar routes.
+Chennai-Bangalore,2024-12-09,2.6501013648046916,-2.25,6.16,No,,Cost is within the expected range based on -2.2% versus its own historical baseline and 6.2% versus similar routes.
+Chennai-Bangalore,2024-12-16,2.688857039390802,-0.92,6.75,No,,Cost is within the expected range based on -0.9% versus its own historical baseline and 6.7% versus similar routes.
+Chennai-Bangalore,2024-12-23,2.753071405209561,1.6,3.27,No,,Cost is within the expected range based on 1.6% versus its own historical baseline and 3.3% versus similar routes.
+Chennai-Bangalore,2024-12-30,2.7360701854421507,0.26,5.75,No,,Cost is within the expected range based on 0.3% versus its own historical baseline and 5.8% versus similar routes.
+Chennai-Bangalore,2025-01-06,2.719594692750129,-0.37,8.23,No,,Cost is within the expected range based on -0.4% versus its own historical baseline and 8.2% versus similar routes.
+Chennai-Bangalore,2025-01-13,2.565692181093666,-5.88,-2.44,No,,Cost is within the expected range based on -5.9% versus its own historical baseline and -2.4% versus similar routes.
+Chennai-Bangalore,2025-01-20,2.797559250399101,3.59,-4.6,No,,Cost is within the expected range based on 3.6% versus its own historical baseline and -4.6% versus similar routes.
+Chennai-Bangalore,2025-01-27,2.7381785842683874,1.21,8.81,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and 8.8% versus similar routes.
+Chennai-Bangalore,2025-02-03,2.6832145254115654,-0.85,6.55,No,,Cost is within the expected range based on -0.8% versus its own historical baseline and 6.5% versus similar routes.
+Chennai-Bangalore,2025-02-10,2.7193960225530875,0.34,7.1,No,,Cost is within the expected range based on 0.3% versus its own historical baseline and 7.1% versus similar routes.
+Chennai-Bangalore,2025-02-17,2.8429086102475187,4.75,10.33,Yes,,Cost is unusually high based on 4.7% versus its own historical baseline and 10.3% versus similar routes. None of the retrieved notes apply to the Chennai-Bangalore route during the week of 2025-02-17; they either refer to later dates or unrelated periods.
+Chennai-Bangalore,2025-02-24,3.5828266015473207,31.46,38.67,No,N001,"Heavy flooding on the Chennai‑Bangalore highway from Feb 24 to Mar 8 forced longer detours, directly raising trip costs for the requested week."
+Chennai-Bangalore,2025-03-03,3.476189317773476,22.78,31.98,No,N001,"Heavy flooding on the Chennai-Bangalore highway from Feb 24 to Mar 8 disrupted truck movement, causing longer detours and higher trip costs during the week of 2025‑03‑03."
+Chennai-Bangalore,2025-03-10,3.5716665390864866,22.08,33.84,Yes,,Cost is unusually high based on 22.1% versus its own historical baseline and 33.8% versus similar routes. None of the retrieved notes describe a factor affecting the Chennai-Bangalore route during the week of 2025-03-10; the flooding disruption ended before that week and the diesel price increase occurred later.
+Chennai-Bangalore,2025-03-17,3.469236786814111,13.69,33.48,Yes,,Cost is unusually high based on 13.7% versus its own historical baseline and 33.5% versus similar routes. None of the retrieved notes apply to the Chennai-Bangalore route during the week of 2025-03-17 or provide a documented factor that could increase freight cost for that week.
+Chennai-Bangalore,2025-03-24,2.7092622198884473,-13.59,7.45,No,,Cost is within the expected range based on -13.6% versus its own historical baseline and 7.5% versus similar routes.
+Chennai-Bangalore,2025-03-31,2.7842723953457043,-11.1,5.87,No,,Cost is within the expected range based on -11.1% versus its own historical baseline and 5.9% versus similar routes.
+Chennai-Bangalore,2025-04-07,2.739738299003243,-12.87,7.94,No,,Cost is within the expected range based on -12.9% versus its own historical baseline and 7.9% versus similar routes.
+Chennai-Bangalore,2025-04-14,2.700641296262791,-14.18,7.67,No,,Cost is within the expected range based on -14.2% versus its own historical baseline and 7.7% versus similar routes.
+Chennai-Bangalore,2025-04-21,2.5900743402437847,-17.23,-0.17,No,,Cost is within the expected range based on -17.2% versus its own historical baseline and -0.2% versus similar routes.
+Chennai-Bangalore,2025-04-28,2.693538115110774,-10.37,3.01,No,,Cost is within the expected range based on -10.4% versus its own historical baseline and 3.0% versus similar routes.
+Chennai-Bangalore,2025-05-05,2.9513611028351416,1.52,10.79,No,N003,"Diesel prices rose nationwide starting the week of 2025-05-05, increasing transportation costs on all routes including Chennai‑Bangalore."
+Chennai-Bangalore,2025-05-12,2.9564433945513904,4.48,13.0,No,N003,"Diesel prices rose nationwide starting the week of 2025-05-05, raising transportation costs across all routes, which includes the Chennai‑Bangalore route for the week of 2025-05-12."
+Chennai-Bangalore,2025-05-19,2.8201052147935473,1.97,4.46,No,,Cost is within the expected range based on 2.0% versus its own historical baseline and 4.5% versus similar routes.
+Chennai-Bangalore,2025-05-26,2.78320981185551,0.13,2.08,No,,Cost is within the expected range based on 0.1% versus its own historical baseline and 2.1% versus similar routes.
+Chennai-Bangalore,2025-06-02,2.9178977258330043,4.98,9.19,No,,Cost is within the expected range based on 5.0% versus its own historical baseline and 9.2% versus similar routes.
+Chennai-Bangalore,2025-06-09,2.847300082247845,1.63,4.97,No,,Cost is within the expected range based on 1.6% versus its own historical baseline and 5.0% versus similar routes.
+Chennai-Bangalore,2025-06-16,2.942321495261134,4.34,7.25,No,,Cost is within the expected range based on 4.3% versus its own historical baseline and 7.2% versus similar routes.
+Chennai-Bangalore,2025-06-23,2.803128027840365,-2.13,1.42,No,,Cost is within the expected range based on -2.1% versus its own historical baseline and 1.4% versus similar routes.
+Chennai-Bangalore,2025-06-30,2.7532732345996993,-4.32,0.68,No,,Cost is within the expected range based on -4.3% versus its own historical baseline and 0.7% versus similar routes.
+Chennai-Bangalore,2025-07-07,2.915411870629235,2.19,5.29,No,,Cost is within the expected range based on 2.2% versus its own historical baseline and 5.3% versus similar routes.
+Chennai-Bangalore,2025-07-14,2.801280585410473,-1.63,3.52,No,,Cost is within the expected range based on -1.6% versus its own historical baseline and 3.5% versus similar routes.
+Chennai-Bangalore,2025-07-21,2.939807332905987,3.32,6.42,No,,Cost is within the expected range based on 3.3% versus its own historical baseline and 6.4% versus similar routes.
+Chennai-Bangalore,2025-07-28,2.77026321630889,-3.31,2.67,No,,Cost is within the expected range based on -3.3% versus its own historical baseline and 2.7% versus similar routes.
+Chennai-Bangalore,2025-08-04,2.9239386930435995,2.72,9.37,No,,Cost is within the expected range based on 2.7% versus its own historical baseline and 9.4% versus similar routes.
+Chennai-Bangalore,2025-08-11,2.8366453953120394,-0.68,5.32,No,,Cost is within the expected range based on -0.7% versus its own historical baseline and 5.3% versus similar routes.
+Chennai-Bangalore,2025-08-18,2.857934376188354,0.53,4.74,No,,Cost is within the expected range based on 0.5% versus its own historical baseline and 4.7% versus similar routes.
+Chennai-Bangalore,2025-08-25,2.849755711633891,-0.0,4.46,No,,Cost is within the expected range based on -0.0% versus its own historical baseline and 4.5% versus similar routes.
+Chennai-Bangalore,2025-09-01,2.8959640413650978,1.19,8.08,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and 8.1% versus similar routes.
+Chennai-Bangalore,2025-09-08,2.7706472790077505,-3.11,3.02,No,,Cost is within the expected range based on -3.1% versus its own historical baseline and 3.0% versus similar routes.
+Chennai-Bangalore,2025-09-15,2.974356760401666,4.16,6.36,No,,Cost is within the expected range based on 4.2% versus its own historical baseline and 6.4% versus similar routes.
+Chennai-Bangalore,2025-09-22,2.91739567376032,2.01,9.64,No,,Cost is within the expected range based on 2.0% versus its own historical baseline and 9.6% versus similar routes.
+Chennai-Bangalore,2025-09-29,2.9000938496655615,0.76,4.67,No,,Cost is within the expected range based on 0.8% versus its own historical baseline and 4.7% versus similar routes.
+Chennai-Bangalore,2025-10-06,2.774167353140143,-3.52,-1.4,No,,Cost is within the expected range based on -3.5% versus its own historical baseline and -1.4% versus similar routes.
+Chennai-Bangalore,2025-10-13,2.870423484002797,0.1,6.29,No,,Cost is within the expected range based on 0.1% versus its own historical baseline and 6.3% versus similar routes.
+Chennai-Bangalore,2025-10-20,2.85644285394986,-0.44,5.23,No,,Cost is within the expected range based on -0.4% versus its own historical baseline and 5.2% versus similar routes.
+Chennai-Bangalore,2025-10-27,2.810685584596984,-2.06,3.78,No,,Cost is within the expected range based on -2.1% versus its own historical baseline and 3.8% versus similar routes.
+Chennai-Bangalore,2025-11-03,2.8691882106833284,0.35,3.15,No,,Cost is within the expected range based on 0.3% versus its own historical baseline and 3.1% versus similar routes.
+Chennai-Bangalore,2025-11-10,2.9014167989069044,1.04,8.7,No,,Cost is within the expected range based on 1.0% versus its own historical baseline and 8.7% versus similar routes.
+Chennai-Bangalore,2025-11-17,2.811387900355872,-1.78,2.24,No,,Cost is within the expected range based on -1.8% versus its own historical baseline and 2.2% versus similar routes.
+Chennai-Bangalore,2025-11-24,2.894371735993164,1.58,8.56,No,,Cost is within the expected range based on 1.6% versus its own historical baseline and 8.6% versus similar routes.
+Chennai-Bangalore,2025-12-01,2.8808002553782925,1.13,4.72,No,,Cost is within the expected range based on 1.1% versus its own historical baseline and 4.7% versus similar routes.
+Chennai-Bangalore,2025-12-08,2.888463624181527,0.93,2.86,No,,Cost is within the expected range based on 0.9% versus its own historical baseline and 2.9% versus similar routes.
+Chennai-Bangalore,2025-12-15,2.9393283529986736,2.63,7.69,No,,Cost is within the expected range based on 2.6% versus its own historical baseline and 7.7% versus similar routes.
+Chennai-Bangalore,2025-12-22,2.8236609342482057,-1.77,1.34,No,,Cost is within the expected range based on -1.8% versus its own historical baseline and 1.3% versus similar routes.
+Delhi-Chennai,2024-01-01,1.956298374217392,,-4.68,No,,Cost is within the expected range based on -4.7% versus similar routes.
+Delhi-Chennai,2024-01-08,2.0978558150803948,7.24,-0.24,No,,Cost is within the expected range based on 7.2% versus its own historical baseline and -0.2% versus similar routes.
+Delhi-Chennai,2024-01-15,2.1467159233621165,5.9,4.7,No,,Cost is within the expected range based on 5.9% versus its own historical baseline and 4.7% versus similar routes.
+Delhi-Chennai,2024-01-22,2.027410534166075,-1.91,-1.97,No,,Cost is within the expected range based on -1.9% versus its own historical baseline and -2.0% versus similar routes.
+Delhi-Chennai,2024-01-29,2.001057289727846,-2.72,-0.01,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and -0.0% versus similar routes.
+Delhi-Chennai,2024-02-05,2.2207590134748814,8.55,7.83,No,,Cost is within the expected range based on 8.5% versus its own historical baseline and 7.8% versus similar routes.
+Delhi-Chennai,2024-02-12,2.0445051874471414,-1.47,-2.15,No,,Cost is within the expected range based on -1.5% versus its own historical baseline and -2.1% versus similar routes.
+Delhi-Chennai,2024-02-19,2.1342632911598507,3.07,7.57,No,,Cost is within the expected range based on 3.1% versus its own historical baseline and 7.6% versus similar routes.
+Delhi-Chennai,2024-02-26,2.1064489961935755,1.34,6.78,No,,Cost is within the expected range based on 1.3% versus its own historical baseline and 6.8% versus similar routes.
+Delhi-Chennai,2024-03-04,2.0524494466072976,-2.14,3.66,No,,Cost is within the expected range based on -2.1% versus its own historical baseline and 3.7% versus similar routes.
+Delhi-Chennai,2024-03-11,2.0203298430967753,-3.41,-0.08,No,,Cost is within the expected range based on -3.4% versus its own historical baseline and -0.1% versus similar routes.
+Delhi-Chennai,2024-03-18,2.2129300588909473,6.6,7.32,No,,Cost is within the expected range based on 6.6% versus its own historical baseline and 7.3% versus similar routes.
+Delhi-Chennai,2024-03-25,2.0510984269713517,-2.29,0.19,No,,Cost is within the expected range based on -2.3% versus its own historical baseline and 0.2% versus similar routes.
+Delhi-Chennai,2024-04-01,2.039962093508567,-3.11,2.08,No,,Cost is within the expected range based on -3.1% versus its own historical baseline and 2.1% versus similar routes.
+Delhi-Chennai,2024-04-08,2.175122258803294,4.44,10.53,Yes,,"Cost is unusually high based on 4.4% versus its own historical baseline and 10.5% versus similar routes. All retrieved notes are dated in 2025 and refer to events occurring after the requested week of 2024-04-08, so none provide a documented explanation applicable to the cost increase for the Delhi-Chennai route in that week."
+Delhi-Chennai,2024-04-15,2.189590380994658,4.31,5.61,No,,Cost is within the expected range based on 4.3% versus its own historical baseline and 5.6% versus similar routes.
+Delhi-Chennai,2024-04-22,2.040536712107725,-3.11,-2.79,No,,Cost is within the expected range based on -3.1% versus its own historical baseline and -2.8% versus similar routes.
+Delhi-Chennai,2024-04-29,2.041307213587173,-2.69,-3.3,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and -3.3% versus similar routes.
+Delhi-Chennai,2024-05-06,2.038356388152376,-2.77,3.77,No,,Cost is within the expected range based on -2.8% versus its own historical baseline and 3.8% versus similar routes.
+Delhi-Chennai,2024-05-13,2.146846388130955,2.3,4.75,No,,Cost is within the expected range based on 2.3% versus its own historical baseline and 4.7% versus similar routes.
+Delhi-Chennai,2024-05-20,2.192486403421971,4.89,3.39,No,,Cost is within the expected range based on 4.9% versus its own historical baseline and 3.4% versus similar routes.
+Delhi-Chennai,2024-05-27,2.090931656981341,-0.81,-0.85,No,,Cost is within the expected range based on -0.8% versus its own historical baseline and -0.8% versus similar routes.
+Delhi-Chennai,2024-06-03,2.175506838825636,2.89,4.24,No,,Cost is within the expected range based on 2.9% versus its own historical baseline and 4.2% versus similar routes.
+Delhi-Chennai,2024-06-10,2.1845430210001098,3.32,10.74,Yes,,"Cost is unusually high based on 3.3% versus its own historical baseline and 10.7% versus similar routes. All retrieved notes are dated in 2025 and refer to events starting in 2025, which do not apply to the requested week of 2024-06-10; therefore none provide a documented explanation for the cost increase."
+Delhi-Chennai,2024-06-17,2.1898471705483606,3.6,4.48,No,,Cost is within the expected range based on 3.6% versus its own historical baseline and 4.5% versus similar routes.
+Delhi-Chennai,2024-06-24,2.08465374244201,-2.24,-0.38,No,,Cost is within the expected range based on -2.2% versus its own historical baseline and -0.4% versus similar routes.
+Delhi-Chennai,2024-07-01,2.118067230475295,-0.93,7.62,No,,Cost is within the expected range based on -0.9% versus its own historical baseline and 7.6% versus similar routes.
+Delhi-Chennai,2024-07-08,2.1279789309075134,-0.93,2.18,No,,Cost is within the expected range based on -0.9% versus its own historical baseline and 2.2% versus similar routes.
+Delhi-Chennai,2024-07-15,2.140619089440067,-0.23,5.69,No,,Cost is within the expected range based on -0.2% versus its own historical baseline and 5.7% versus similar routes.
+Delhi-Chennai,2024-07-22,1.9461139430788026,-9.02,-7.38,No,,Cost is within the expected range based on -9.0% versus its own historical baseline and -7.4% versus similar routes.
+Delhi-Chennai,2024-07-29,1.9948209895335782,-5.95,-3.25,No,,Cost is within the expected range based on -5.9% versus its own historical baseline and -3.2% versus similar routes.
+Delhi-Chennai,2024-08-05,1.997759182394508,-4.79,-1.57,No,,Cost is within the expected range based on -4.8% versus its own historical baseline and -1.6% versus similar routes.
+Delhi-Chennai,2024-08-12,2.098544147759444,1.14,5.12,No,,Cost is within the expected range based on 1.1% versus its own historical baseline and 5.1% versus similar routes.
+Delhi-Chennai,2024-08-19,2.070984526513901,0.36,1.64,No,,Cost is within the expected range based on 0.4% versus its own historical baseline and 1.6% versus similar routes.
+Delhi-Chennai,2024-08-26,2.1226394430285707,2.95,7.02,No,,Cost is within the expected range based on 2.9% versus its own historical baseline and 7.0% versus similar routes.
+Delhi-Chennai,2024-09-02,2.110229093693204,2.32,6.81,No,,Cost is within the expected range based on 2.3% versus its own historical baseline and 6.8% versus similar routes.
+Delhi-Chennai,2024-09-09,2.118994579836392,2.85,6.71,No,,Cost is within the expected range based on 2.9% versus its own historical baseline and 6.7% versus similar routes.
+Delhi-Chennai,2024-09-16,2.1469048642572663,4.34,4.46,No,,Cost is within the expected range based on 4.3% versus its own historical baseline and 4.5% versus similar routes.
+Delhi-Chennai,2024-09-23,2.116523420076731,1.63,3.79,No,,Cost is within the expected range based on 1.6% versus its own historical baseline and 3.8% versus similar routes.
+Delhi-Chennai,2024-09-30,2.066209866528212,-1.51,0.2,No,,Cost is within the expected range based on -1.5% versus its own historical baseline and 0.2% versus similar routes.
+Delhi-Chennai,2024-10-07,1.9923355607279147,-5.41,-6.51,No,,Cost is within the expected range based on -5.4% versus its own historical baseline and -6.5% versus similar routes.
+Delhi-Chennai,2024-10-14,2.1901767233463008,4.64,7.4,No,,Cost is within the expected range based on 4.6% versus its own historical baseline and 7.4% versus similar routes.
+Delhi-Chennai,2024-10-21,2.1801357215028125,3.42,10.49,Yes,,"Cost is unusually high based on 3.4% versus its own historical baseline and 10.5% versus similar routes. None of the retrieved notes are dated or temporally applicable to the week of 2024-10-21, so they do not provide a documented explanation for the cost increase."
+Delhi-Chennai,2024-10-28,2.0435917537778465,-3.38,2.0,No,,Cost is within the expected range based on -3.4% versus its own historical baseline and 2.0% versus similar routes.
+Delhi-Chennai,2024-11-04,2.1369859317026116,1.43,5.89,No,,Cost is within the expected range based on 1.4% versus its own historical baseline and 5.9% versus similar routes.
+Delhi-Chennai,2024-11-11,2.0419878294122324,-3.18,-2.77,No,,Cost is within the expected range based on -3.2% versus its own historical baseline and -2.8% versus similar routes.
+Delhi-Chennai,2024-11-18,1.990062839545877,-5.05,-3.48,No,,Cost is within the expected range based on -5.1% versus its own historical baseline and -3.5% versus similar routes.
+Delhi-Chennai,2024-11-25,1.988690826285465,-4.4,1.94,No,,Cost is within the expected range based on -4.4% versus its own historical baseline and 1.9% versus similar routes.
+Delhi-Chennai,2024-12-02,1.968087013469917,-4.95,-4.4,No,,Cost is within the expected range based on -4.9% versus its own historical baseline and -4.4% versus similar routes.
+Delhi-Chennai,2024-12-09,2.169191199009753,4.92,8.33,No,,Cost is within the expected range based on 4.9% versus its own historical baseline and 8.3% versus similar routes.
+Delhi-Chennai,2024-12-16,2.036109408862508,-1.39,1.8,No,,Cost is within the expected range based on -1.4% versus its own historical baseline and 1.8% versus similar routes.
+Delhi-Chennai,2024-12-23,2.0894419465971,2.08,2.04,No,,Cost is within the expected range based on 2.1% versus its own historical baseline and 2.0% versus similar routes.
+Delhi-Chennai,2024-12-30,2.170761036416544,5.76,9.04,No,,Cost is within the expected range based on 5.8% versus its own historical baseline and 9.0% versus similar routes.
+Delhi-Chennai,2025-01-06,2.0189153924776004,-1.84,-2.96,No,,Cost is within the expected range based on -1.8% versus its own historical baseline and -3.0% versus similar routes.
+Delhi-Chennai,2025-01-13,1.9973096158496446,-2.76,-1.46,No,,Cost is within the expected range based on -2.8% versus its own historical baseline and -1.5% versus similar routes.
+Delhi-Chennai,2025-01-20,1.962417188486714,-4.5,-5.98,No,,Cost is within the expected range based on -4.5% versus its own historical baseline and -6.0% versus similar routes.
+Delhi-Chennai,2025-01-27,2.181331640557924,6.33,10.04,Yes,,Cost is unusually high based on 6.3% versus its own historical baseline and 10.0% versus similar routes. None of the retrieved notes apply to the week of 2025-01-27 or provide evidence of a factor that could increase freight costs for that period.
+Delhi-Chennai,2025-02-03,2.2145952929752712,6.56,8.74,No,,Cost is within the expected range based on 6.6% versus its own historical baseline and 8.7% versus similar routes.
+Delhi-Chennai,2025-02-10,2.0381852028492746,-2.19,1.59,No,,Cost is within the expected range based on -2.2% versus its own historical baseline and 1.6% versus similar routes.
+Delhi-Chennai,2025-02-17,2.2192878406636614,6.49,11.9,Yes,,Cost is unusually high based on 6.5% versus its own historical baseline and 11.9% versus similar routes. None of the retrieved notes apply to the week of 2025-02-17 or provide a documented factor that could explain the cost increase for the Delhi-Chennai route.
+Delhi-Chennai,2025-02-24,2.0765778492499853,-1.13,1.05,No,,Cost is within the expected range based on -1.1% versus its own historical baseline and 1.1% versus similar routes.
+Delhi-Chennai,2025-03-03,2.1519571147918963,3.03,6.4,No,,Cost is within the expected range based on 3.0% versus its own historical baseline and 6.4% versus similar routes.
+Delhi-Chennai,2025-03-10,2.1187813168153085,0.64,3.19,No,,Cost is within the expected range based on 0.6% versus its own historical baseline and 3.2% versus similar routes.
+Delhi-Chennai,2025-03-17,2.0814995170870225,-1.83,1.44,No,,Cost is within the expected range based on -1.8% versus its own historical baseline and 1.4% versus similar routes.
+Delhi-Chennai,2025-03-24,1.9867216682153144,-6.96,-3.4,No,,Cost is within the expected range based on -7.0% versus its own historical baseline and -3.4% versus similar routes.
+Delhi-Chennai,2025-03-31,2.047733685536559,-2.99,0.81,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and 0.8% versus similar routes.
+Delhi-Chennai,2025-04-07,2.2086798440914452,5.67,8.77,No,,Cost is within the expected range based on 5.7% versus its own historical baseline and 8.8% versus similar routes.
+Delhi-Chennai,2025-04-14,1.983596083052165,-6.05,-0.39,No,,Cost is within the expected range based on -6.1% versus its own historical baseline and -0.4% versus similar routes.
+Delhi-Chennai,2025-04-21,2.0631499245243075,-0.9,2.96,No,,Cost is within the expected range based on -0.9% versus its own historical baseline and 3.0% versus similar routes.
+Delhi-Chennai,2025-04-28,2.0677589762260062,-0.6,4.13,No,,Cost is within the expected range based on -0.6% versus its own historical baseline and 4.1% versus similar routes.
+Delhi-Chennai,2025-05-05,2.198696684462253,6.23,1.19,No,,Cost is within the expected range based on 6.2% versus its own historical baseline and 1.2% versus similar routes.
+Delhi-Chennai,2025-05-12,2.1355164957605006,2.68,-6.24,No,,Cost is within the expected range based on 2.7% versus its own historical baseline and -6.2% versus similar routes.
+Delhi-Chennai,2025-05-19,2.109414123071192,1.1,-0.48,No,,Cost is within the expected range based on 1.1% versus its own historical baseline and -0.5% versus similar routes.
+Delhi-Chennai,2025-05-26,2.1113633400854375,0.45,-3.48,No,,Cost is within the expected range based on 0.5% versus its own historical baseline and -3.5% versus similar routes.
+Delhi-Chennai,2025-06-02,2.0630241533603,-2.22,-8.61,No,,Cost is within the expected range based on -2.2% versus its own historical baseline and -8.6% versus similar routes.
+Delhi-Chennai,2025-06-09,2.1989037191209158,5.13,-0.5,No,,Cost is within the expected range based on 5.1% versus its own historical baseline and -0.5% versus similar routes.
+Delhi-Chennai,2025-06-16,2.0582748083339584,-2.84,-8.51,No,,Cost is within the expected range based on -2.8% versus its own historical baseline and -8.5% versus similar routes.
+Delhi-Chennai,2025-06-23,2.0452784736174796,-3.43,-8.04,No,,Cost is within the expected range based on -3.4% versus its own historical baseline and -8.0% versus similar routes.
+Delhi-Chennai,2025-06-30,2.153644778811427,1.82,0.88,No,,Cost is within the expected range based on 1.8% versus its own historical baseline and 0.9% versus similar routes.
+Delhi-Chennai,2025-07-07,1.97860469449773,-6.2,-6.51,No,,Cost is within the expected range based on -6.2% versus its own historical baseline and -6.5% versus similar routes.
+Delhi-Chennai,2025-07-14,2.1702416417906205,3.85,2.52,No,,Cost is within the expected range based on 3.8% versus its own historical baseline and 2.5% versus similar routes.
+Delhi-Chennai,2025-07-21,2.0392900262143385,-2.77,-7.54,No,,Cost is within the expected range based on -2.8% versus its own historical baseline and -7.5% versus similar routes.
+Delhi-Chennai,2025-07-28,2.062709519806737,-1.23,-7.54,No,,Cost is within the expected range based on -1.2% versus its own historical baseline and -7.5% versus similar routes.
+Delhi-Chennai,2025-08-04,2.1777235608667076,4.28,3.22,No,,Cost is within the expected range based on 4.3% versus its own historical baseline and 3.2% versus similar routes.
+Delhi-Chennai,2025-08-11,1.9875632227052167,-4.71,-8.05,No,,Cost is within the expected range based on -4.7% versus its own historical baseline and -8.1% versus similar routes.
+Delhi-Chennai,2025-08-18,2.0091995404377454,-3.26,-9.66,No,,Cost is within the expected range based on -3.3% versus its own historical baseline and -9.7% versus similar routes.
+Delhi-Chennai,2025-08-25,2.016425808178081,-2.7,-4.07,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and -4.1% versus similar routes.
+Delhi-Chennai,2025-09-01,2.1297733430926673,3.63,-1.98,No,,Cost is within the expected range based on 3.6% versus its own historical baseline and -2.0% versus similar routes.
+Delhi-Chennai,2025-09-08,2.1474105373750705,3.53,2.46,No,,Cost is within the expected range based on 3.5% versus its own historical baseline and 2.5% versus similar routes.
+Delhi-Chennai,2025-09-15,2.0555846845360697,-0.76,-5.52,No,,Cost is within the expected range based on -0.8% versus its own historical baseline and -5.5% versus similar routes.
+Delhi-Chennai,2025-09-22,1.9816189298985272,-4.42,-10.64,No,,Cost is within the expected range based on -4.4% versus its own historical baseline and -10.6% versus similar routes.
+Delhi-Chennai,2025-09-29,2.084686608045349,1.04,-4.57,No,,Cost is within the expected range based on 1.0% versus its own historical baseline and -4.6% versus similar routes.
+Delhi-Chennai,2025-10-06,2.107767464796165,2.74,-6.98,No,,Cost is within the expected range based on 2.7% versus its own historical baseline and -7.0% versus similar routes.
+Delhi-Chennai,2025-10-13,2.0536056831336182,-0.63,-4.17,No,,Cost is within the expected range based on -0.6% versus its own historical baseline and -4.2% versus similar routes.
+Delhi-Chennai,2025-10-20,2.069258369743481,-0.14,-1.94,No,,Cost is within the expected range based on -0.1% versus its own historical baseline and -1.9% versus similar routes.
+Delhi-Chennai,2025-10-27,2.1812601894223294,4.93,2.91,No,,Cost is within the expected range based on 4.9% versus its own historical baseline and 2.9% versus similar routes.
+Delhi-Chennai,2025-11-03,2.0346378871364905,-2.42,-4.51,No,,Cost is within the expected range based on -2.4% versus its own historical baseline and -4.5% versus similar routes.
+Delhi-Chennai,2025-11-10,2.1974427117755266,6.1,3.9,No,,Cost is within the expected range based on 6.1% versus its own historical baseline and 3.9% versus similar routes.
+Delhi-Chennai,2025-11-17,2.0005264409024175,-4.23,-5.1,No,,Cost is within the expected range based on -4.2% versus its own historical baseline and -5.1% versus similar routes.
+Delhi-Chennai,2025-11-24,2.029318691900332,-2.96,-9.33,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and -9.3% versus similar routes.
+Delhi-Chennai,2025-12-01,2.0717032722732562,-0.6,-3.65,No,,Cost is within the expected range based on -0.6% versus its own historical baseline and -3.6% versus similar routes.
+Delhi-Chennai,2025-12-08,1.9828796331593561,-4.66,-8.44,No,,Cost is within the expected range based on -4.7% versus its own historical baseline and -8.4% versus similar routes.
+Delhi-Chennai,2025-12-15,1.9675850729410826,-4.99,-8.23,No,,Cost is within the expected range based on -5.0% versus its own historical baseline and -8.2% versus similar routes.
+Delhi-Chennai,2025-12-22,1.9905279604623947,-3.29,-10.17,No,,Cost is within the expected range based on -3.3% versus its own historical baseline and -10.2% versus similar routes.
+Delhi-Jaipur,2024-01-01,3.000124589086287,,-9.12,No,,Cost is within the expected range based on -9.1% versus similar routes.
+Delhi-Jaipur,2024-01-08,3.053238844499479,1.77,-9.72,No,,Cost is within the expected range based on 1.8% versus its own historical baseline and -9.7% versus similar routes.
+Delhi-Jaipur,2024-01-15,3.018284611444174,-0.28,-11.53,No,,Cost is within the expected range based on -0.3% versus its own historical baseline and -11.5% versus similar routes.
+Delhi-Jaipur,2024-01-22,2.9905207109637173,-1.1,-11.49,No,,Cost is within the expected range based on -1.1% versus its own historical baseline and -11.5% versus similar routes.
+Delhi-Jaipur,2024-01-29,3.193044427848018,5.89,-2.63,No,,Cost is within the expected range based on 5.9% versus its own historical baseline and -2.6% versus similar routes.
+Delhi-Jaipur,2024-02-05,3.019563453505494,-1.03,-8.23,No,,Cost is within the expected range based on -1.0% versus its own historical baseline and -8.2% versus similar routes.
+Delhi-Jaipur,2024-02-12,3.114203204421916,2.25,-5.08,No,,Cost is within the expected range based on 2.2% versus its own historical baseline and -5.1% versus similar routes.
+Delhi-Jaipur,2024-02-19,2.9942465670453102,-2.01,-11.42,No,,Cost is within the expected range based on -2.0% versus its own historical baseline and -11.4% versus similar routes.
+Delhi-Jaipur,2024-02-26,3.095922612017261,1.58,-4.74,No,,Cost is within the expected range based on 1.6% versus its own historical baseline and -4.7% versus similar routes.
+Delhi-Jaipur,2024-03-04,3.000886739557641,-1.93,-11.99,No,,Cost is within the expected range based on -1.9% versus its own historical baseline and -12.0% versus similar routes.
+Delhi-Jaipur,2024-03-11,3.112900922683544,1.95,-6.83,No,,Cost is within the expected range based on 2.0% versus its own historical baseline and -6.8% versus similar routes.
+Delhi-Jaipur,2024-03-18,3.079482909335919,0.47,-9.81,No,,Cost is within the expected range based on 0.5% versus its own historical baseline and -9.8% versus similar routes.
+Delhi-Jaipur,2024-03-25,3.17451688143107,3.19,-10.16,No,,Cost is within the expected range based on 3.2% versus its own historical baseline and -10.2% versus similar routes.
+Delhi-Jaipur,2024-04-01,2.989638453642722,-2.74,-10.19,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and -10.2% versus similar routes.
+Delhi-Jaipur,2024-04-08,3.1255946349424892,1.8,-10.51,No,,Cost is within the expected range based on 1.8% versus its own historical baseline and -10.5% versus similar routes.
+Delhi-Jaipur,2024-04-15,3.2014746514424033,4.23,-10.33,No,,Cost is within the expected range based on 4.2% versus its own historical baseline and -10.3% versus similar routes.
+Delhi-Jaipur,2024-04-22,3.0583944142533848,-1.26,-8.03,No,,Cost is within the expected range based on -1.3% versus its own historical baseline and -8.0% versus similar routes.
+Delhi-Jaipur,2024-04-29,3.0742647090547464,-0.6,-12.56,No,,Cost is within the expected range based on -0.6% versus its own historical baseline and -12.6% versus similar routes.
+Delhi-Jaipur,2024-05-06,3.095442243813846,-0.21,-11.66,No,,Cost is within the expected range based on -0.2% versus its own historical baseline and -11.7% versus similar routes.
+Delhi-Jaipur,2024-05-13,3.060597254279632,-1.27,-7.32,No,,Cost is within the expected range based on -1.3% versus its own historical baseline and -7.3% versus similar routes.
+Delhi-Jaipur,2024-05-20,3.0543348925250706,-1.39,-8.63,No,,Cost is within the expected range based on -1.4% versus its own historical baseline and -8.6% versus similar routes.
+Delhi-Jaipur,2024-05-27,3.1062883197284608,0.77,-9.82,No,,Cost is within the expected range based on 0.8% versus its own historical baseline and -9.8% versus similar routes.
+Delhi-Jaipur,2024-06-03,3.1410904870240075,1.42,-7.06,No,,Cost is within the expected range based on 1.4% versus its own historical baseline and -7.1% versus similar routes.
+Delhi-Jaipur,2024-06-10,3.0307295587311263,-2.2,-14.23,No,,Cost is within the expected range based on -2.2% versus its own historical baseline and -14.2% versus similar routes.
+Delhi-Jaipur,2024-06-17,3.174488942112091,3.15,-4.71,No,,Cost is within the expected range based on 3.1% versus its own historical baseline and -4.7% versus similar routes.
+Delhi-Jaipur,2024-06-24,3.098773366701835,0.21,-7.5,No,,Cost is within the expected range based on 0.2% versus its own historical baseline and -7.5% versus similar routes.
+Delhi-Jaipur,2024-07-01,3.1919593224531986,3.13,-5.2,No,,Cost is within the expected range based on 3.1% versus its own historical baseline and -5.2% versus similar routes.
+Delhi-Jaipur,2024-07-08,3.1168371831289035,0.31,-12.1,No,,Cost is within the expected range based on 0.3% versus its own historical baseline and -12.1% versus similar routes.
+Delhi-Jaipur,2024-07-15,3.0878248301608573,-0.85,-10.35,No,,Cost is within the expected range based on -0.9% versus its own historical baseline and -10.3% versus similar routes.
+Delhi-Jaipur,2024-07-22,3.12707767184565,0.28,-11.06,No,,Cost is within the expected range based on 0.3% versus its own historical baseline and -11.1% versus similar routes.
+Delhi-Jaipur,2024-07-29,3.146639390849637,0.82,-7.18,No,,Cost is within the expected range based on 0.8% versus its own historical baseline and -7.2% versus similar routes.
+Delhi-Jaipur,2024-08-05,3.0568969586497357,-2.08,-9.31,No,,Cost is within the expected range based on -2.1% versus its own historical baseline and -9.3% versus similar routes.
+Delhi-Jaipur,2024-08-12,3.0025556482474607,-3.92,-10.24,No,,Cost is within the expected range based on -3.9% versus its own historical baseline and -10.2% versus similar routes.
+Delhi-Jaipur,2024-08-19,3.0753854525836353,-0.91,-10.12,No,,Cost is within the expected range based on -0.9% versus its own historical baseline and -10.1% versus similar routes.
+Delhi-Jaipur,2024-08-26,3.1060974515646174,0.18,-8.42,No,,Cost is within the expected range based on 0.2% versus its own historical baseline and -8.4% versus similar routes.
+Delhi-Jaipur,2024-09-02,3.0813894690353343,-0.28,-6.27,No,,Cost is within the expected range based on -0.3% versus its own historical baseline and -6.3% versus similar routes.
+Delhi-Jaipur,2024-09-09,3.169366676497001,2.72,-3.23,No,,Cost is within the expected range based on 2.7% versus its own historical baseline and -3.2% versus similar routes.
+Delhi-Jaipur,2024-09-16,3.1643300939939465,2.22,-7.74,No,,Cost is within the expected range based on 2.2% versus its own historical baseline and -7.7% versus similar routes.
+Delhi-Jaipur,2024-09-23,3.1517796082071476,1.66,-9.11,No,,Cost is within the expected range based on 1.7% versus its own historical baseline and -9.1% versus similar routes.
+Delhi-Jaipur,2024-09-30,3.0157284752161964,-2.75,-11.88,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and -11.9% versus similar routes.
+Delhi-Jaipur,2024-10-07,3.088429182204065,-0.24,-12.09,No,,Cost is within the expected range based on -0.2% versus its own historical baseline and -12.1% versus similar routes.
+Delhi-Jaipur,2024-10-14,3.0945656781283994,-0.39,-7.75,No,,Cost is within the expected range based on -0.4% versus its own historical baseline and -7.7% versus similar routes.
+Delhi-Jaipur,2024-10-21,3.0776716314989736,-1.01,-7.79,No,,Cost is within the expected range based on -1.0% versus its own historical baseline and -7.8% versus similar routes.
+Delhi-Jaipur,2024-10-28,3.0342132300731706,-2.29,-13.11,No,,Cost is within the expected range based on -2.3% versus its own historical baseline and -13.1% versus similar routes.
+Delhi-Jaipur,2024-11-04,3.0070145642918757,-2.98,-12.15,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and -12.1% versus similar routes.
+Delhi-Jaipur,2024-11-11,4.1729570742422215,35.52,21.03,Yes,,Cost is unusually high based on 35.5% versus its own historical baseline and 21.0% versus similar routes. None of the retrieved notes are temporally applicable to the week of 2024-11-11 or provide a documented factor that could increase freight costs for the Delhi-Jaipur route.
+Delhi-Jaipur,2024-11-18,4.09056418496697,27.62,19.67,Yes,,Cost is unusually high based on 27.6% versus its own historical baseline and 19.7% versus similar routes. None of the retrieved notes apply to the Delhi-Jaipur route during the week of 2024-11-18 or provide a factor that could increase freight costs.
+Delhi-Jaipur,2024-11-25,3.057646609169616,-7.98,-10.91,No,,Cost is within the expected range based on -8.0% versus its own historical baseline and -10.9% versus similar routes.
+Delhi-Jaipur,2024-12-02,3.045067060150872,-8.5,-11.49,No,,Cost is within the expected range based on -8.5% versus its own historical baseline and -11.5% versus similar routes.
+Delhi-Jaipur,2024-12-09,3.2214860208844818,-3.04,-6.03,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and -6.0% versus similar routes.
+Delhi-Jaipur,2024-12-16,3.0767496506432246,-7.84,-13.26,No,,Cost is within the expected range based on -7.8% versus its own historical baseline and -13.3% versus similar routes.
+Delhi-Jaipur,2024-12-23,3.112671142027137,-6.76,-11.24,No,,Cost is within the expected range based on -6.8% versus its own historical baseline and -11.2% versus similar routes.
+Delhi-Jaipur,2024-12-30,3.2183319030184787,-3.87,-5.43,No,,Cost is within the expected range based on -3.9% versus its own historical baseline and -5.4% versus similar routes.
+Delhi-Jaipur,2025-01-06,3.1695157011646455,-6.07,-9.39,No,,Cost is within the expected range based on -6.1% versus its own historical baseline and -9.4% versus similar routes.
+Delhi-Jaipur,2025-01-13,3.04568886569979,-6.26,-13.68,No,,Cost is within the expected range based on -6.3% versus its own historical baseline and -13.7% versus similar routes.
+Delhi-Jaipur,2025-01-20,3.062641938448038,-1.79,-12.6,No,,Cost is within the expected range based on -1.8% versus its own historical baseline and -12.6% versus similar routes.
+Delhi-Jaipur,2025-01-27,3.1439368387916398,0.8,-7.16,No,,Cost is within the expected range based on 0.8% versus its own historical baseline and -7.2% versus similar routes.
+Delhi-Jaipur,2025-02-03,3.0152735695620803,-3.71,-9.52,No,,Cost is within the expected range based on -3.7% versus its own historical baseline and -9.5% versus similar routes.
+Delhi-Jaipur,2025-02-10,2.989365619170418,-3.74,-11.76,No,,Cost is within the expected range based on -3.7% versus its own historical baseline and -11.8% versus similar routes.
+Delhi-Jaipur,2025-02-17,3.0968634325022846,0.07,-9.14,No,,Cost is within the expected range based on 0.1% versus its own historical baseline and -9.1% versus similar routes.
+Delhi-Jaipur,2025-02-24,3.0826648241960193,-0.32,-9.61,No,,Cost is within the expected range based on -0.3% versus its own historical baseline and -9.6% versus similar routes.
+Delhi-Jaipur,2025-03-03,3.2186160226789813,4.65,-8.04,No,,Cost is within the expected range based on 4.6% versus its own historical baseline and -8.0% versus similar routes.
+Delhi-Jaipur,2025-03-10,3.1829782537128866,3.28,-9.45,No,,Cost is within the expected range based on 3.3% versus its own historical baseline and -9.5% versus similar routes.
+Delhi-Jaipur,2025-03-17,3.0785154656676093,-0.66,-9.2,No,,Cost is within the expected range based on -0.7% versus its own historical baseline and -9.2% versus similar routes.
+Delhi-Jaipur,2025-03-24,3.139244979607187,1.23,-6.2,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and -6.2% versus similar routes.
+Delhi-Jaipur,2025-03-31,3.055609182334624,-1.45,-5.46,No,,Cost is within the expected range based on -1.4% versus its own historical baseline and -5.5% versus similar routes.
+Delhi-Jaipur,2025-04-07,3.1881643364078243,2.66,-9.59,No,,Cost is within the expected range based on 2.7% versus its own historical baseline and -9.6% versus similar routes.
+Delhi-Jaipur,2025-04-14,2.9953091684434967,-4.31,-11.89,No,,Cost is within the expected range based on -4.3% versus its own historical baseline and -11.9% versus similar routes.
+Delhi-Jaipur,2025-04-21,3.072194137196133,-1.46,-6.73,No,,Cost is within the expected range based on -1.5% versus its own historical baseline and -6.7% versus similar routes.
+Delhi-Jaipur,2025-04-28,3.0337773255273235,-2.65,-11.16,No,,Cost is within the expected range based on -2.6% versus its own historical baseline and -11.2% versus similar routes.
+Delhi-Jaipur,2025-05-05,3.323786517774917,7.45,-8.05,No,,Cost is within the expected range based on 7.5% versus its own historical baseline and -8.1% versus similar routes.
+Delhi-Jaipur,2025-05-12,3.1848870962999465,2.38,-11.37,No,,Cost is within the expected range based on 2.4% versus its own historical baseline and -11.4% versus similar routes.
+Delhi-Jaipur,2025-05-19,3.3235820912256573,6.38,-4.32,No,,Cost is within the expected range based on 6.4% versus its own historical baseline and -4.3% versus similar routes.
+Delhi-Jaipur,2025-05-26,3.279898749510746,4.22,-5.69,No,,Cost is within the expected range based on 4.2% versus its own historical baseline and -5.7% versus similar routes.
+Delhi-Jaipur,2025-06-02,3.143201151169279,-1.01,-11.99,No,,Cost is within the expected range based on -1.0% versus its own historical baseline and -12.0% versus similar routes.
+Delhi-Jaipur,2025-06-09,3.276807952072161,3.38,-5.69,No,,Cost is within the expected range based on 3.4% versus its own historical baseline and -5.7% versus similar routes.
+Delhi-Jaipur,2025-06-16,3.2925805672359227,2.74,-11.48,No,,Cost is within the expected range based on 2.7% versus its own historical baseline and -11.5% versus similar routes.
+Delhi-Jaipur,2025-06-23,3.1206702077053943,-3.45,-17.05,No,,Cost is within the expected range based on -3.5% versus its own historical baseline and -17.1% versus similar routes.
+Delhi-Jaipur,2025-06-30,3.3356062497082757,2.85,-5.89,No,,Cost is within the expected range based on 2.8% versus its own historical baseline and -5.9% versus similar routes.
+Delhi-Jaipur,2025-07-07,3.228798489605058,-0.49,-11.29,No,,Cost is within the expected range based on -0.5% versus its own historical baseline and -11.3% versus similar routes.
+Delhi-Jaipur,2025-07-14,3.392400602883771,4.38,-5.55,No,,Cost is within the expected range based on 4.4% versus its own historical baseline and -5.5% versus similar routes.
+Delhi-Jaipur,2025-07-21,3.2058459788168476,-1.62,-9.12,No,,Cost is within the expected range based on -1.6% versus its own historical baseline and -9.1% versus similar routes.
+Delhi-Jaipur,2025-07-28,3.3363586311316045,2.67,-6.38,No,,Cost is within the expected range based on 2.7% versus its own historical baseline and -6.4% versus similar routes.
+Delhi-Jaipur,2025-08-04,3.336519717955214,1.92,-10.43,No,,Cost is within the expected range based on 1.9% versus its own historical baseline and -10.4% versus similar routes.
+Delhi-Jaipur,2025-08-11,3.3717358088444347,2.76,-4.5,No,,Cost is within the expected range based on 2.8% versus its own historical baseline and -4.5% versus similar routes.
+Delhi-Jaipur,2025-08-18,3.2779898994367116,-0.4,-13.4,No,,Cost is within the expected range based on -0.4% versus its own historical baseline and -13.4% versus similar routes.
+Delhi-Jaipur,2025-08-25,3.230412788677708,-2.42,-11.05,No,,Cost is within the expected range based on -2.4% versus its own historical baseline and -11.1% versus similar routes.
+Delhi-Jaipur,2025-09-01,3.4516755988995365,4.68,-5.92,No,,Cost is within the expected range based on 4.7% versus its own historical baseline and -5.9% versus similar routes.
+Delhi-Jaipur,2025-09-08,3.2490361690471596,-2.3,-12.6,No,,Cost is within the expected range based on -2.3% versus its own historical baseline and -12.6% versus similar routes.
+Delhi-Jaipur,2025-09-15,3.220063126502312,-2.64,-19.11,No,,Cost is within the expected range based on -2.6% versus its own historical baseline and -19.1% versus similar routes.
+Delhi-Jaipur,2025-09-22,3.213261699122259,-2.9,-15.37,No,,Cost is within the expected range based on -2.9% versus its own historical baseline and -15.4% versus similar routes.
+Delhi-Jaipur,2025-09-29,3.4357369165119143,4.31,-10.07,No,,Cost is within the expected range based on 4.3% versus its own historical baseline and -10.1% versus similar routes.
+Delhi-Jaipur,2025-10-06,3.2076541666060807,-2.98,-18.63,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and -18.6% versus similar routes.
+Delhi-Jaipur,2025-10-13,3.3040475259408253,0.56,-14.53,No,,Cost is within the expected range based on 0.6% versus its own historical baseline and -14.5% versus similar routes.
+Delhi-Jaipur,2025-10-20,3.2806351874570825,-0.25,-19.89,No,,Cost is within the expected range based on -0.3% versus its own historical baseline and -19.9% versus similar routes.
+Delhi-Jaipur,2025-10-27,3.1757949813323028,-3.63,-22.03,No,,Cost is within the expected range based on -3.6% versus its own historical baseline and -22.0% versus similar routes.
+Delhi-Jaipur,2025-11-03,3.3845809052107474,3.8,-19.4,No,,Cost is within the expected range based on 3.8% versus its own historical baseline and -19.4% versus similar routes.
+Delhi-Jaipur,2025-11-10,3.2678342781499055,-0.3,-17.65,No,,Cost is within the expected range based on -0.3% versus its own historical baseline and -17.6% versus similar routes.
+Delhi-Jaipur,2025-11-17,3.2840674798770078,0.01,-24.02,No,,Cost is within the expected range based on 0.0% versus its own historical baseline and -24.0% versus similar routes.
+Delhi-Jaipur,2025-11-24,3.3779523991731564,2.59,-18.73,No,,Cost is within the expected range based on 2.6% versus its own historical baseline and -18.7% versus similar routes.
+Delhi-Jaipur,2025-12-01,3.197263163309926,-2.68,-27.22,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and -27.2% versus similar routes.
+Delhi-Jaipur,2025-12-08,3.1929489840683787,-2.77,-27.96,No,,Cost is within the expected range based on -2.8% versus its own historical baseline and -28.0% versus similar routes.
+Delhi-Jaipur,2025-12-15,3.2383690176031377,-0.97,-26.2,No,,Cost is within the expected range based on -1.0% versus its own historical baseline and -26.2% versus similar routes.
+Delhi-Jaipur,2025-12-22,3.2289253632943895,-1.1,-28.01,No,,Cost is within the expected range based on -1.1% versus its own historical baseline and -28.0% versus similar routes.
+Kolkata-Bhubaneswar,2024-01-01,2.507515776359385,,-3.27,No,,Cost is within the expected range based on -3.3% versus similar routes.
+Kolkata-Bhubaneswar,2024-01-08,2.6272356647058244,4.77,-1.73,No,,Cost is within the expected range based on 4.8% versus its own historical baseline and -1.7% versus similar routes.
+Kolkata-Bhubaneswar,2024-01-15,2.507175576831636,-2.34,-4.14,No,,Cost is within the expected range based on -2.3% versus its own historical baseline and -4.1% versus similar routes.
+Kolkata-Bhubaneswar,2024-01-22,2.5746025721501247,1.07,-5.47,No,,Cost is within the expected range based on 1.1% versus its own historical baseline and -5.5% versus similar routes.
+Kolkata-Bhubaneswar,2024-01-29,2.6247907812898204,2.77,1.29,No,,Cost is within the expected range based on 2.8% versus its own historical baseline and 1.3% versus similar routes.
+Kolkata-Bhubaneswar,2024-02-05,2.664165322984317,3.73,1.83,No,,Cost is within the expected range based on 3.7% versus its own historical baseline and 1.8% versus similar routes.
+Kolkata-Bhubaneswar,2024-02-12,2.701850073039535,4.55,2.94,No,,Cost is within the expected range based on 4.6% versus its own historical baseline and 2.9% versus similar routes.
+Kolkata-Bhubaneswar,2024-02-19,2.692250516917505,3.51,4.11,No,,Cost is within the expected range based on 3.5% versus its own historical baseline and 4.1% versus similar routes.
+Kolkata-Bhubaneswar,2024-02-26,2.6488086986897623,1.39,2.05,No,,Cost is within the expected range based on 1.4% versus its own historical baseline and 2.1% versus similar routes.
+Kolkata-Bhubaneswar,2024-03-04,2.5095317466660654,-4.58,-2.77,No,,Cost is within the expected range based on -4.6% versus its own historical baseline and -2.8% versus similar routes.
+Kolkata-Bhubaneswar,2024-03-11,2.6696092465359156,2.07,-0.95,No,,Cost is within the expected range based on 2.1% versus its own historical baseline and -1.0% versus similar routes.
+Kolkata-Bhubaneswar,2024-03-18,2.6894092504472344,2.04,5.04,No,,Cost is within the expected range based on 2.0% versus its own historical baseline and 5.0% versus similar routes.
+Kolkata-Bhubaneswar,2024-03-25,2.673370830474016,0.88,-0.6,No,,Cost is within the expected range based on 0.9% versus its own historical baseline and -0.6% versus similar routes.
+Kolkata-Bhubaneswar,2024-04-01,2.517657765719857,-5.21,-4.34,No,,Cost is within the expected range based on -5.2% versus its own historical baseline and -4.3% versus similar routes.
+Kolkata-Bhubaneswar,2024-04-08,2.549107332765163,-3.36,-4.66,No,,Cost is within the expected range based on -3.4% versus its own historical baseline and -4.7% versus similar routes.
+Kolkata-Bhubaneswar,2024-04-15,2.617495479604761,-0.05,1.87,No,,Cost is within the expected range based on -0.0% versus its own historical baseline and 1.9% versus similar routes.
+Kolkata-Bhubaneswar,2024-04-22,2.5374670354409212,-2.76,-3.65,No,,Cost is within the expected range based on -2.8% versus its own historical baseline and -3.7% versus similar routes.
+Kolkata-Bhubaneswar,2024-04-29,2.5392101728725347,-2.17,-3.26,No,,Cost is within the expected range based on -2.2% versus its own historical baseline and -3.3% versus similar routes.
+Kolkata-Bhubaneswar,2024-05-06,2.6573468065102097,2.24,2.96,No,,Cost is within the expected range based on 2.2% versus its own historical baseline and 3.0% versus similar routes.
+Kolkata-Bhubaneswar,2024-05-13,2.550297881972491,-1.82,-5.76,No,,Cost is within the expected range based on -1.8% versus its own historical baseline and -5.8% versus similar routes.
+Kolkata-Bhubaneswar,2024-05-20,2.7286457555675514,5.75,3.91,No,,Cost is within the expected range based on 5.8% versus its own historical baseline and 3.9% versus similar routes.
+Kolkata-Bhubaneswar,2024-05-27,2.597628983413162,0.4,-0.47,No,,Cost is within the expected range based on 0.4% versus its own historical baseline and -0.5% versus similar routes.
+Kolkata-Bhubaneswar,2024-06-03,2.596089116674651,-0.04,-1.02,No,,Cost is within the expected range based on -0.0% versus its own historical baseline and -1.0% versus similar routes.
+Kolkata-Bhubaneswar,2024-06-10,2.478999755499803,-4.76,-1.77,No,,Cost is within the expected range based on -4.8% versus its own historical baseline and -1.8% versus similar routes.
+Kolkata-Bhubaneswar,2024-06-17,2.581570721604931,-0.16,-2.88,No,,Cost is within the expected range based on -0.2% versus its own historical baseline and -2.9% versus similar routes.
+Kolkata-Bhubaneswar,2024-06-24,2.7010410491101418,4.24,2.43,No,,Cost is within the expected range based on 4.2% versus its own historical baseline and 2.4% versus similar routes.
+Kolkata-Bhubaneswar,2024-07-01,2.534140700534555,-2.96,-5.95,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and -6.0% versus similar routes.
+Kolkata-Bhubaneswar,2024-07-08,2.627622280669504,1.22,-0.18,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and -0.2% versus similar routes.
+Kolkata-Bhubaneswar,2024-07-15,2.682361975607663,2.94,0.58,No,,Cost is within the expected range based on 2.9% versus its own historical baseline and 0.6% versus similar routes.
+Kolkata-Bhubaneswar,2024-07-22,2.6514857791686284,1.98,2.38,No,,Cost is within the expected range based on 2.0% versus its own historical baseline and 2.4% versus similar routes.
+Kolkata-Bhubaneswar,2024-07-29,2.5851939408330304,-0.82,-0.8,No,,Cost is within the expected range based on -0.8% versus its own historical baseline and -0.8% versus similar routes.
+Kolkata-Bhubaneswar,2024-08-05,2.683442841466995,3.0,4.57,No,,Cost is within the expected range based on 3.0% versus its own historical baseline and 4.6% versus similar routes.
+Kolkata-Bhubaneswar,2024-08-12,2.5591854574398907,-2.72,-2.24,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and -2.2% versus similar routes.
+Kolkata-Bhubaneswar,2024-08-19,2.6318710917053267,0.15,-2.95,No,,Cost is within the expected range based on 0.1% versus its own historical baseline and -3.0% versus similar routes.
+Kolkata-Bhubaneswar,2024-08-26,2.517594786323881,-3.89,-4.08,No,,Cost is within the expected range based on -3.9% versus its own historical baseline and -4.1% versus similar routes.
+Kolkata-Bhubaneswar,2024-09-02,2.547045448831003,-2.69,0.52,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and 0.5% versus similar routes.
+Kolkata-Bhubaneswar,2024-09-09,2.57777508366543,-1.13,-1.18,No,,Cost is within the expected range based on -1.1% versus its own historical baseline and -1.2% versus similar routes.
+Kolkata-Bhubaneswar,2024-09-16,2.694294179134057,3.86,2.66,No,,Cost is within the expected range based on 3.9% versus its own historical baseline and 2.7% versus similar routes.
+Kolkata-Bhubaneswar,2024-09-23,2.718097752715021,4.56,6.32,No,,Cost is within the expected range based on 4.6% versus its own historical baseline and 6.3% versus similar routes.
+Kolkata-Bhubaneswar,2024-09-30,2.700442701139059,3.22,5.44,No,,Cost is within the expected range based on 3.2% versus its own historical baseline and 5.4% versus similar routes.
+Kolkata-Bhubaneswar,2024-10-07,2.700610301732372,3.14,3.81,No,,Cost is within the expected range based on 3.1% versus its own historical baseline and 3.8% versus similar routes.
+Kolkata-Bhubaneswar,2024-10-14,2.6213625095593214,-0.55,2.79,No,,Cost is within the expected range based on -0.6% versus its own historical baseline and 2.8% versus similar routes.
+Kolkata-Bhubaneswar,2024-10-21,2.673248862571006,1.46,1.32,No,,Cost is within the expected range based on 1.5% versus its own historical baseline and 1.3% versus similar routes.
+Kolkata-Bhubaneswar,2024-10-28,2.5274177327613976,-4.77,-4.13,No,,Cost is within the expected range based on -4.8% versus its own historical baseline and -4.1% versus similar routes.
+Kolkata-Bhubaneswar,2024-11-04,2.561542231179923,-3.4,-2.44,No,,Cost is within the expected range based on -3.4% versus its own historical baseline and -2.4% versus similar routes.
+Kolkata-Bhubaneswar,2024-11-11,2.6061941346362403,-1.64,-2.28,No,,Cost is within the expected range based on -1.6% versus its own historical baseline and -2.3% versus similar routes.
+Kolkata-Bhubaneswar,2024-11-18,2.5466307193755306,-3.49,-5.04,No,,Cost is within the expected range based on -3.5% versus its own historical baseline and -5.0% versus similar routes.
+Kolkata-Bhubaneswar,2024-11-25,2.6656335977785304,1.85,-0.45,No,,Cost is within the expected range based on 1.9% versus its own historical baseline and -0.4% versus similar routes.
+Kolkata-Bhubaneswar,2024-12-02,2.563355702689703,-1.89,-1.97,No,,Cost is within the expected range based on -1.9% versus its own historical baseline and -2.0% versus similar routes.
+Kolkata-Bhubaneswar,2024-12-09,2.5069657675659527,-3.42,-2.38,No,,Cost is within the expected range based on -3.4% versus its own historical baseline and -2.4% versus similar routes.
+Kolkata-Bhubaneswar,2024-12-16,2.5856656695354814,0.17,0.59,No,,Cost is within the expected range based on 0.2% versus its own historical baseline and 0.6% versus similar routes.
+Kolkata-Bhubaneswar,2024-12-23,2.6988091974433304,4.99,0.22,No,,Cost is within the expected range based on 5.0% versus its own historical baseline and 0.2% versus similar routes.
+Kolkata-Bhubaneswar,2024-12-30,2.6266078381401012,1.34,-0.58,No,,Cost is within the expected range based on 1.3% versus its own historical baseline and -0.6% versus similar routes.
+Kolkata-Bhubaneswar,2025-01-06,2.5122445011619545,-3.37,-3.99,No,,Cost is within the expected range based on -3.4% versus its own historical baseline and -4.0% versus similar routes.
+Kolkata-Bhubaneswar,2025-01-13,2.654971370436552,2.58,2.69,No,,Cost is within the expected range based on 2.6% versus its own historical baseline and 2.7% versus similar routes.
+Kolkata-Bhubaneswar,2025-01-20,2.574743930783983,-1.04,-15.41,No,,Cost is within the expected range based on -1.0% versus its own historical baseline and -15.4% versus similar routes.
+Kolkata-Bhubaneswar,2025-01-27,2.572195152038488,-0.7,-1.05,No,,Cost is within the expected range based on -0.7% versus its own historical baseline and -1.1% versus similar routes.
+Kolkata-Bhubaneswar,2025-02-03,2.5426760004245,-1.88,-1.77,No,,Cost is within the expected range based on -1.9% versus its own historical baseline and -1.8% versus similar routes.
+Kolkata-Bhubaneswar,2025-02-10,2.634969996464771,1.5,2.08,No,,Cost is within the expected range based on 1.5% versus its own historical baseline and 2.1% versus similar routes.
+Kolkata-Bhubaneswar,2025-02-17,2.645677631291354,1.67,-1.11,No,,Cost is within the expected range based on 1.7% versus its own historical baseline and -1.1% versus similar routes.
+Kolkata-Bhubaneswar,2025-02-24,2.6635333870216718,2.62,-12.48,No,,Cost is within the expected range based on 2.6% versus its own historical baseline and -12.5% versus similar routes.
+Kolkata-Bhubaneswar,2025-03-03,2.677049639802744,2.96,-11.75,No,,Cost is within the expected range based on 3.0% versus its own historical baseline and -11.8% versus similar routes.
+Kolkata-Bhubaneswar,2025-03-10,2.7002512342042104,3.03,-13.02,No,,Cost is within the expected range based on 3.0% versus its own historical baseline and -13.0% versus similar routes.
+Kolkata-Bhubaneswar,2025-03-17,2.539579826421529,-3.31,-17.11,No,,Cost is within the expected range based on -3.3% versus its own historical baseline and -17.1% versus similar routes.
+Kolkata-Bhubaneswar,2025-03-24,2.606550900068637,-0.59,1.32,No,,Cost is within the expected range based on -0.6% versus its own historical baseline and 1.3% versus similar routes.
+Kolkata-Bhubaneswar,2025-03-31,2.645876176918787,0.75,-1.97,No,,Cost is within the expected range based on 0.7% versus its own historical baseline and -2.0% versus similar routes.
+Kolkata-Bhubaneswar,2025-04-07,2.5816222132229054,-2.18,-1.36,No,,Cost is within the expected range based on -2.2% versus its own historical baseline and -1.4% versus similar routes.
+Kolkata-Bhubaneswar,2025-04-14,2.5716005493059986,-2.31,-0.05,No,,Cost is within the expected range based on -2.3% versus its own historical baseline and -0.0% versus similar routes.
+Kolkata-Bhubaneswar,2025-04-21,2.5961235957985633,-1.03,0.18,No,,Cost is within the expected range based on -1.0% versus its own historical baseline and 0.2% versus similar routes.
+Kolkata-Bhubaneswar,2025-04-28,2.578465849460377,-1.39,-3.51,No,,Cost is within the expected range based on -1.4% versus its own historical baseline and -3.5% versus similar routes.
+Kolkata-Bhubaneswar,2025-05-05,2.7342975930522755,5.06,-1.37,No,,Cost is within the expected range based on 5.1% versus its own historical baseline and -1.4% versus similar routes.
+Kolkata-Bhubaneswar,2025-05-12,2.6271794920628873,0.78,-5.53,No,,Cost is within the expected range based on 0.8% versus its own historical baseline and -5.5% versus similar routes.
+Kolkata-Bhubaneswar,2025-05-19,2.7654665842407278,5.64,1.41,No,,Cost is within the expected range based on 5.6% versus its own historical baseline and 1.4% versus similar routes.
+Kolkata-Bhubaneswar,2025-05-26,2.8362225471543887,7.53,5.05,No,,Cost is within the expected range based on 7.5% versus its own historical baseline and 5.0% versus similar routes.
+Kolkata-Bhubaneswar,2025-06-02,2.702547142887977,1.55,-2.79,No,,Cost is within the expected range based on 1.5% versus its own historical baseline and -2.8% versus similar routes.
+Kolkata-Bhubaneswar,2025-06-09,2.6784586832339174,0.07,-4.24,No,,Cost is within the expected range based on 0.1% versus its own historical baseline and -4.2% versus similar routes.
+Kolkata-Bhubaneswar,2025-06-16,2.6756483932134807,-0.53,-6.99,No,,Cost is within the expected range based on -0.5% versus its own historical baseline and -7.0% versus similar routes.
+Kolkata-Bhubaneswar,2025-06-23,2.729506582466018,1.1,-2.55,No,,Cost is within the expected range based on 1.1% versus its own historical baseline and -2.5% versus similar routes.
+Kolkata-Bhubaneswar,2025-06-30,2.759303328269972,1.49,1.01,No,,Cost is within the expected range based on 1.5% versus its own historical baseline and 1.0% versus similar routes.
+Kolkata-Bhubaneswar,2025-07-07,2.852068273046908,4.79,1.83,No,,Cost is within the expected range based on 4.8% versus its own historical baseline and 1.8% versus similar routes.
+Kolkata-Bhubaneswar,2025-07-14,2.7214367499053314,-1.04,-0.89,No,,Cost is within the expected range based on -1.0% versus its own historical baseline and -0.9% versus similar routes.
+Kolkata-Bhubaneswar,2025-07-21,2.7274334611934448,-0.62,-4.93,No,,Cost is within the expected range based on -0.6% versus its own historical baseline and -4.9% versus similar routes.
+Kolkata-Bhubaneswar,2025-07-28,2.7182154215192784,-0.46,-0.22,No,,Cost is within the expected range based on -0.5% versus its own historical baseline and -0.2% versus similar routes.
+Kolkata-Bhubaneswar,2025-08-04,2.677900416318116,-2.01,-4.24,No,,Cost is within the expected range based on -2.0% versus its own historical baseline and -4.2% versus similar routes.
+Kolkata-Bhubaneswar,2025-08-11,2.7587943861249724,0.96,0.97,No,,Cost is within the expected range based on 1.0% versus its own historical baseline and 1.0% versus similar routes.
+Kolkata-Bhubaneswar,2025-08-18,2.846874438492569,3.78,4.12,No,,Cost is within the expected range based on 3.8% versus its own historical baseline and 4.1% versus similar routes.
+Kolkata-Bhubaneswar,2025-08-25,2.8325605730247547,2.71,3.5,No,,Cost is within the expected range based on 2.7% versus its own historical baseline and 3.5% versus similar routes.
+Kolkata-Bhubaneswar,2025-09-01,2.645635030789984,-4.38,-5.67,No,,Cost is within the expected range based on -4.4% versus its own historical baseline and -5.7% versus similar routes.
+Kolkata-Bhubaneswar,2025-09-08,2.753354374247689,0.45,2.05,No,,Cost is within the expected range based on 0.4% versus its own historical baseline and 2.0% versus similar routes.
+Kolkata-Bhubaneswar,2025-09-15,2.7915529659921683,1.69,-3.34,No,,Cost is within the expected range based on 1.7% versus its own historical baseline and -3.3% versus similar routes.
+Kolkata-Bhubaneswar,2025-09-22,2.677826816152844,-2.73,-3.7,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and -3.7% versus similar routes.
+Kolkata-Bhubaneswar,2025-09-29,2.8374205727457995,3.25,1.26,No,,Cost is within the expected range based on 3.3% versus its own historical baseline and 1.3% versus similar routes.
+Kolkata-Bhubaneswar,2025-10-06,2.878887164699027,4.01,4.26,No,,Cost is within the expected range based on 4.0% versus its own historical baseline and 4.3% versus similar routes.
+Kolkata-Bhubaneswar,2025-10-13,2.6808519852387644,-3.67,-4.1,No,,Cost is within the expected range based on -3.7% versus its own historical baseline and -4.1% versus similar routes.
+Kolkata-Bhubaneswar,2025-10-20,2.6861318386309394,-2.76,-4.06,No,,Cost is within the expected range based on -2.8% versus its own historical baseline and -4.1% versus similar routes.
+Kolkata-Bhubaneswar,2025-10-27,2.747706914373581,0.14,0.29,No,,Cost is within the expected range based on 0.1% versus its own historical baseline and 0.3% versus similar routes.
+Kolkata-Bhubaneswar,2025-11-03,2.8221602254207996,2.37,0.61,No,,Cost is within the expected range based on 2.4% versus its own historical baseline and 0.6% versus similar routes.
+Kolkata-Bhubaneswar,2025-11-10,2.7312334626630537,-1.23,-0.84,No,,Cost is within the expected range based on -1.2% versus its own historical baseline and -0.8% versus similar routes.
+Kolkata-Bhubaneswar,2025-11-17,2.751615479626001,-0.22,-1.01,No,,Cost is within the expected range based on -0.2% versus its own historical baseline and -1.0% versus similar routes.
+Kolkata-Bhubaneswar,2025-11-24,2.72369443404918,-1.57,-1.01,No,,Cost is within the expected range based on -1.6% versus its own historical baseline and -1.0% versus similar routes.
+Kolkata-Bhubaneswar,2025-12-01,2.7148257111177196,-1.38,-4.2,No,,Cost is within the expected range based on -1.4% versus its own historical baseline and -4.2% versus similar routes.
+Kolkata-Bhubaneswar,2025-12-08,2.8192879485402793,3.18,-0.83,No,,Cost is within the expected range based on 3.2% versus its own historical baseline and -0.8% versus similar routes.
+Kolkata-Bhubaneswar,2025-12-15,2.72712972417431,-0.82,-3.83,No,,Cost is within the expected range based on -0.8% versus its own historical baseline and -3.8% versus similar routes.
+Kolkata-Bhubaneswar,2025-12-22,2.8373262971435187,3.0,2.08,No,,Cost is within the expected range based on 3.0% versus its own historical baseline and 2.1% versus similar routes.
+Mumbai-Delhi,2024-01-01,2.052382241207193,,4.91,No,,Cost is within the expected range based on 4.9% versus similar routes.
+Mumbai-Delhi,2024-01-08,2.1028765553352295,2.46,0.24,No,,Cost is within the expected range based on 2.5% versus its own historical baseline and 0.2% versus similar routes.
+Mumbai-Delhi,2024-01-15,2.0502667097385237,-1.32,-4.49,No,,Cost is within the expected range based on -1.3% versus its own historical baseline and -4.5% versus similar routes.
+Mumbai-Delhi,2024-01-22,2.068174821338809,-0.02,2.01,No,,Cost is within the expected range based on -0.0% versus its own historical baseline and 2.0% versus similar routes.
+Mumbai-Delhi,2024-01-29,2.0012142669386748,-3.25,0.01,No,,Cost is within the expected range based on -3.2% versus its own historical baseline and 0.0% versus similar routes.
+Mumbai-Delhi,2024-02-05,2.0595626263211875,0.22,-7.26,No,,Cost is within the expected range based on 0.2% versus its own historical baseline and -7.3% versus similar routes.
+Mumbai-Delhi,2024-02-12,2.08940408765188,1.64,2.2,No,,Cost is within the expected range based on 1.6% versus its own historical baseline and 2.2% versus similar routes.
+Mumbai-Delhi,2024-02-19,1.9841412056844683,-3.71,-7.03,No,,Cost is within the expected range based on -3.7% versus its own historical baseline and -7.0% versus similar routes.
+Mumbai-Delhi,2024-02-26,1.9726880963721796,-3.82,-6.35,No,,Cost is within the expected range based on -3.8% versus its own historical baseline and -6.4% versus similar routes.
+Mumbai-Delhi,2024-03-04,1.9799555013074297,-2.99,-3.53,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and -3.5% versus similar routes.
+Mumbai-Delhi,2024-03-11,2.02201721830256,-0.18,0.08,No,,Cost is within the expected range based on -0.2% versus its own historical baseline and 0.1% versus similar routes.
+Mumbai-Delhi,2024-03-18,2.061960495188942,1.97,-6.82,No,,Cost is within the expected range based on 2.0% versus its own historical baseline and -6.8% versus similar routes.
+Mumbai-Delhi,2024-03-25,2.0472240164517324,1.28,-0.19,No,,Cost is within the expected range based on 1.3% versus its own historical baseline and -0.2% versus similar routes.
+Mumbai-Delhi,2024-04-01,1.9983200630035562,-1.42,-2.04,No,,Cost is within the expected range based on -1.4% versus its own historical baseline and -2.0% versus similar routes.
+Mumbai-Delhi,2024-04-08,1.967855048593877,-2.56,-9.53,No,,Cost is within the expected range based on -2.6% versus its own historical baseline and -9.5% versus similar routes.
+Mumbai-Delhi,2024-04-15,2.0731921965085838,3.44,-5.32,No,,Cost is within the expected range based on 3.4% versus its own historical baseline and -5.3% versus similar routes.
+Mumbai-Delhi,2024-04-22,2.099186370675652,4.16,2.87,No,,Cost is within the expected range based on 4.2% versus its own historical baseline and 2.9% versus similar routes.
+Mumbai-Delhi,2024-04-29,2.1109310196705313,3.92,3.41,No,,Cost is within the expected range based on 3.9% versus its own historical baseline and 3.4% versus similar routes.
+Mumbai-Delhi,2024-05-06,1.9642936490878078,-4.07,-3.63,No,,Cost is within the expected range based on -4.1% versus its own historical baseline and -3.6% versus similar routes.
+Mumbai-Delhi,2024-05-13,2.0495326719754328,0.45,-4.53,No,,Cost is within the expected range based on 0.4% versus its own historical baseline and -4.5% versus similar routes.
+Mumbai-Delhi,2024-05-20,2.1206043074671426,4.01,-3.28,No,,Cost is within the expected range based on 4.0% versus its own historical baseline and -3.3% versus similar routes.
+Mumbai-Delhi,2024-05-27,2.1087978473591034,2.97,0.85,No,,Cost is within the expected range based on 3.0% versus its own historical baseline and 0.9% versus similar routes.
+Mumbai-Delhi,2024-06-03,2.0870296919469875,1.22,-4.07,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and -4.1% versus similar routes.
+Mumbai-Delhi,2024-06-10,1.972623781028769,-5.01,-9.7,No,,Cost is within the expected range based on -5.0% versus its own historical baseline and -9.7% versus similar routes.
+Mumbai-Delhi,2024-06-17,2.096020278615551,1.55,-4.28,No,,Cost is within the expected range based on 1.5% versus its own historical baseline and -4.3% versus similar routes.
+Mumbai-Delhi,2024-06-24,2.0925849110903694,1.4,0.38,No,,Cost is within the expected range based on 1.4% versus its own historical baseline and 0.4% versus similar routes.
+Mumbai-Delhi,2024-07-01,1.9681337566355899,-4.53,-7.08,No,,Cost is within the expected range based on -4.5% versus its own historical baseline and -7.1% versus similar routes.
+Mumbai-Delhi,2024-07-08,2.0826328483142396,1.0,-2.13,No,,Cost is within the expected range based on 1.0% versus its own historical baseline and -2.1% versus similar routes.
+Mumbai-Delhi,2024-07-15,2.025338557785503,-1.97,-5.39,No,,Cost is within the expected range based on -2.0% versus its own historical baseline and -5.4% versus similar routes.
+Mumbai-Delhi,2024-07-22,2.1011697274768966,2.29,7.97,No,,Cost is within the expected range based on 2.3% versus its own historical baseline and 8.0% versus similar routes.
+Mumbai-Delhi,2024-07-29,2.061764112371173,0.42,3.36,No,,Cost is within the expected range based on 0.4% versus its own historical baseline and 3.4% versus similar routes.
+Mumbai-Delhi,2024-08-05,2.0296150348403628,-1.0,1.59,No,,Cost is within the expected range based on -1.0% versus its own historical baseline and 1.6% versus similar routes.
+Mumbai-Delhi,2024-08-12,1.9964214460274388,-2.95,-4.87,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and -4.9% versus similar routes.
+Mumbai-Delhi,2024-08-19,2.0375604827989577,-0.35,-1.61,No,,Cost is within the expected range based on -0.3% versus its own historical baseline and -1.6% versus similar routes.
+Mumbai-Delhi,2024-08-26,1.9834228676600423,-2.67,-6.56,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and -6.6% versus similar routes.
+Mumbai-Delhi,2024-09-02,1.9756965289461965,-3.14,-6.38,No,,Cost is within the expected range based on -3.1% versus its own historical baseline and -6.4% versus similar routes.
+Mumbai-Delhi,2024-09-09,1.9857427660457434,-2.01,-6.29,No,,Cost is within the expected range based on -2.0% versus its own historical baseline and -6.3% versus similar routes.
+Mumbai-Delhi,2024-09-16,2.0552727226608862,1.67,-4.27,No,,Cost is within the expected range based on 1.7% versus its own historical baseline and -4.3% versus similar routes.
+Mumbai-Delhi,2024-09-23,2.0392874624896247,1.17,-3.65,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and -3.6% versus similar routes.
+Mumbai-Delhi,2024-09-30,2.062061319555805,2.44,-0.2,No,,Cost is within the expected range based on 2.4% versus its own historical baseline and -0.2% versus similar routes.
+Mumbai-Delhi,2024-10-07,2.130967172753701,5.65,6.96,No,,Cost is within the expected range based on 5.7% versus its own historical baseline and 7.0% versus similar routes.
+Mumbai-Delhi,2024-10-14,2.039295695727354,0.27,-6.89,No,,Cost is within the expected range based on 0.3% versus its own historical baseline and -6.9% versus similar routes.
+Mumbai-Delhi,2024-10-21,1.9730751033874596,-2.99,-9.5,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and -9.5% versus similar routes.
+Mumbai-Delhi,2024-10-28,2.0035287548242553,-1.43,-1.96,No,,Cost is within the expected range based on -1.4% versus its own historical baseline and -2.0% versus similar routes.
+Mumbai-Delhi,2024-11-04,2.018125147598922,-0.89,-5.56,No,,Cost is within the expected range based on -0.9% versus its own historical baseline and -5.6% versus similar routes.
+Mumbai-Delhi,2024-11-11,2.100210444340857,2.94,2.85,No,,Cost is within the expected range based on 2.9% versus its own historical baseline and 2.9% versus similar routes.
+Mumbai-Delhi,2024-11-18,2.0617867388978053,0.78,3.6,No,,Cost is within the expected range based on 0.8% versus its own historical baseline and 3.6% versus similar routes.
+Mumbai-Delhi,2024-11-25,1.9508277503095366,-4.77,-1.9,No,,Cost is within the expected range based on -4.8% versus its own historical baseline and -1.9% versus similar routes.
+Mumbai-Delhi,2024-12-02,2.058579168082445,1.17,4.6,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and 4.6% versus similar routes.
+Mumbai-Delhi,2024-12-09,2.0023254581647825,-1.15,-7.69,No,,Cost is within the expected range based on -1.2% versus its own historical baseline and -7.7% versus similar routes.
+Mumbai-Delhi,2024-12-16,2.0000362320939207,-1.04,-1.77,No,,Cost is within the expected range based on -1.0% versus its own historical baseline and -1.8% versus similar routes.
+Mumbai-Delhi,2024-12-23,2.047672049905541,1.15,-2.0,No,,Cost is within the expected range based on 1.1% versus its own historical baseline and -2.0% versus similar routes.
+Mumbai-Delhi,2024-12-30,1.9908577523945326,-1.93,-8.29,No,,Cost is within the expected range based on -1.9% versus its own historical baseline and -8.3% versus similar routes.
+Mumbai-Delhi,2025-01-06,2.0804490008578123,2.66,3.05,No,,Cost is within the expected range based on 2.7% versus its own historical baseline and 3.0% versus similar routes.
+Mumbai-Delhi,2025-01-13,2.0268306193431203,0.14,1.48,No,,Cost is within the expected range based on 0.1% versus its own historical baseline and 1.5% versus similar routes.
+Mumbai-Delhi,2025-01-20,2.0873024422024207,3.35,6.36,No,,Cost is within the expected range based on 3.3% versus its own historical baseline and 6.4% versus similar routes.
+Mumbai-Delhi,2025-01-27,1.98231173787144,-2.67,-9.12,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and -9.1% versus similar routes.
+Mumbai-Delhi,2025-02-03,2.03653826209116,0.46,-8.04,No,,Cost is within the expected range based on 0.5% versus its own historical baseline and -8.0% versus similar routes.
+Mumbai-Delhi,2025-02-10,2.006206496392305,-1.25,-1.57,No,,Cost is within the expected range based on -1.2% versus its own historical baseline and -1.6% versus similar routes.
+Mumbai-Delhi,2025-02-17,1.983304462451565,-2.41,-10.63,No,,Cost is within the expected range based on -2.4% versus its own historical baseline and -10.6% versus similar routes.
+Mumbai-Delhi,2025-02-24,2.0549150439013273,1.52,-1.04,No,,Cost is within the expected range based on 1.5% versus its own historical baseline and -1.0% versus similar routes.
+Mumbai-Delhi,2025-03-03,2.022539589131959,-0.48,-6.01,No,,Cost is within the expected range based on -0.5% versus its own historical baseline and -6.0% versus similar routes.
+Mumbai-Delhi,2025-03-10,2.0533262825921357,1.4,-3.09,No,,Cost is within the expected range based on 1.4% versus its own historical baseline and -3.1% versus similar routes.
+Mumbai-Delhi,2025-03-17,2.0519994011357667,1.17,-1.42,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and -1.4% versus similar routes.
+Mumbai-Delhi,2025-03-24,2.0565980261624293,1.62,3.52,No,,Cost is within the expected range based on 1.6% versus its own historical baseline and 3.5% versus similar routes.
+Mumbai-Delhi,2025-03-31,2.031287160346024,-0.09,-0.8,No,,Cost is within the expected range based on -0.1% versus its own historical baseline and -0.8% versus similar routes.
+Mumbai-Delhi,2025-04-07,2.0305384988996322,-0.1,-8.07,No,,Cost is within the expected range based on -0.1% versus its own historical baseline and -8.1% versus similar routes.
+Mumbai-Delhi,2025-04-14,1.9913129731886883,-2.17,0.39,No,,Cost is within the expected range based on -2.2% versus its own historical baseline and 0.4% versus similar routes.
+Mumbai-Delhi,2025-04-21,2.0037957816375025,-1.61,-2.88,No,,Cost is within the expected range based on -1.6% versus its own historical baseline and -2.9% versus similar routes.
+Mumbai-Delhi,2025-04-28,1.9858355891948454,-2.18,-3.96,No,,Cost is within the expected range based on -2.2% versus its own historical baseline and -4.0% versus similar routes.
+Mumbai-Delhi,2025-05-05,2.1727587123493297,7.27,-1.18,No,,Cost is within the expected range based on 7.3% versus its own historical baseline and -1.2% versus similar routes.
+Mumbai-Delhi,2025-05-12,2.277680865830098,11.62,6.66,No,N003,"Note N003 reports diesel prices rose nationwide starting the week of 2025-05-05, which would increase transportation costs on all routes, including Mumbai-Delhi, during the week of 2025-05-12."
+Mumbai-Delhi,2025-05-19,2.1196842350954443,2.46,0.49,No,,Cost is within the expected range based on 2.5% versus its own historical baseline and 0.5% versus similar routes.
+Mumbai-Delhi,2025-05-26,2.1875109585085433,5.34,3.61,No,,Cost is within the expected range based on 5.3% versus its own historical baseline and 3.6% versus similar routes.
+Mumbai-Delhi,2025-06-02,2.257285709526182,7.69,9.42,No,,Cost is within the expected range based on 7.7% versus its own historical baseline and 9.4% versus similar routes.
+Mumbai-Delhi,2025-06-09,2.210004587207286,4.03,0.5,No,,Cost is within the expected range based on 4.0% versus its own historical baseline and 0.5% versus similar routes.
+Mumbai-Delhi,2025-06-16,2.2497444693222155,4.55,9.3,No,,Cost is within the expected range based on 4.6% versus its own historical baseline and 9.3% versus similar routes.
+Mumbai-Delhi,2025-06-23,2.2240104743469478,1.9,8.74,No,,Cost is within the expected range based on 1.9% versus its own historical baseline and 8.7% versus similar routes.
+Mumbai-Delhi,2025-06-30,2.1349042302416272,-3.5,-0.87,No,,Cost is within the expected range based on -3.5% versus its own historical baseline and -0.9% versus similar routes.
+Mumbai-Delhi,2025-07-07,2.116471985467619,-4.13,6.97,No,,Cost is within the expected range based on -4.1% versus its own historical baseline and 7.0% versus similar routes.
+Mumbai-Delhi,2025-07-14,2.1169412185892087,-3.22,-2.46,No,,Cost is within the expected range based on -3.2% versus its own historical baseline and -2.5% versus similar routes.
+Mumbai-Delhi,2025-07-21,2.205660155814617,0.85,8.16,No,,Cost is within the expected range based on 0.8% versus its own historical baseline and 8.2% versus similar routes.
+Mumbai-Delhi,2025-07-28,2.2308588873462982,1.89,8.15,No,,Cost is within the expected range based on 1.9% versus its own historical baseline and 8.2% versus similar routes.
+Mumbai-Delhi,2025-08-04,2.1098241131442768,-3.49,-3.12,No,,Cost is within the expected range based on -3.5% versus its own historical baseline and -3.1% versus similar routes.
+Mumbai-Delhi,2025-08-11,2.1616477633608566,-0.55,8.76,No,,Cost is within the expected range based on -0.5% versus its own historical baseline and 8.8% versus similar routes.
+Mumbai-Delhi,2025-08-18,2.2240533427724345,2.84,10.69,Yes,,Cost is unusually high based on 2.8% versus its own historical baseline and 10.7% versus similar routes. None of the retrieved notes describe a factor that clearly affected the Mumbai-Delhi route during the week of 2025-08-18.
+Mumbai-Delhi,2025-08-25,2.101999487344841,-2.8,4.24,No,,Cost is within the expected range based on -2.8% versus its own historical baseline and 4.2% versus similar routes.
+Mumbai-Delhi,2025-09-01,2.1727684310359154,0.66,2.02,No,,Cost is within the expected range based on 0.7% versus its own historical baseline and 2.0% versus similar routes.
+Mumbai-Delhi,2025-09-08,2.0958731036023983,-3.21,-2.4,No,,Cost is within the expected range based on -3.2% versus its own historical baseline and -2.4% versus similar routes.
+Mumbai-Delhi,2025-09-15,2.175696236435805,0.59,5.84,No,,Cost is within the expected range based on 0.6% versus its own historical baseline and 5.8% versus similar routes.
+Mumbai-Delhi,2025-09-22,2.2176597534882503,2.71,11.91,Yes,,Cost is unusually high based on 2.7% versus its own historical baseline and 11.9% versus similar routes. None of the retrieved notes apply to the week of 2025-09-22 and provide a factor that could increase freight cost for the Mumbai-Delhi route.
+Mumbai-Delhi,2025-09-29,2.184463149978113,1.25,4.79,No,,Cost is within the expected range based on 1.3% versus its own historical baseline and 4.8% versus similar routes.
+Mumbai-Delhi,2025-10-06,2.2658823796579113,4.57,7.5,No,,Cost is within the expected range based on 4.6% versus its own historical baseline and 7.5% versus similar routes.
+Mumbai-Delhi,2025-10-13,2.1430335910371303,-1.69,4.35,No,,Cost is within the expected range based on -1.7% versus its own historical baseline and 4.4% versus similar routes.
+Mumbai-Delhi,2025-10-20,2.1101277437447123,-2.74,1.98,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and 2.0% versus similar routes.
+Mumbai-Delhi,2025-10-27,2.1195825436649893,-2.35,-2.83,No,,Cost is within the expected range based on -2.4% versus its own historical baseline and -2.8% versus similar routes.
+Mumbai-Delhi,2025-11-03,2.1308219660231513,-1.53,4.73,No,,Cost is within the expected range based on -1.5% versus its own historical baseline and 4.7% versus similar routes.
+Mumbai-Delhi,2025-11-10,2.115029716790139,-2.46,-3.75,No,,Cost is within the expected range based on -2.5% versus its own historical baseline and -3.8% versus similar routes.
+Mumbai-Delhi,2025-11-17,2.1081283753458364,-2.44,5.38,No,,Cost is within the expected range based on -2.4% versus its own historical baseline and 5.4% versus similar routes.
+Mumbai-Delhi,2025-11-24,2.2381856325864686,4.24,10.29,No,N003,"The note reports that diesel prices rose nationwide starting the week of 2025-05-05, raising transportation costs on all routes by 5‑7%, which provides a documented factor that could increase freight cost for Mumbai‑Delhi in the week of 2025-11-24."
+Mumbai-Delhi,2025-12-01,2.1501775422169533,-0.17,3.79,No,,Cost is within the expected range based on -0.2% versus its own historical baseline and 3.8% versus similar routes.
+Mumbai-Delhi,2025-12-08,2.165595758910522,1.23,9.21,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and 9.2% versus similar routes.
+Mumbai-Delhi,2025-12-15,2.14394799414601,0.08,8.96,No,,Cost is within the expected range based on 0.1% versus its own historical baseline and 9.0% versus similar routes.
+Mumbai-Delhi,2025-12-22,2.215853146357839,3.23,11.32,Yes,,Cost is unusually high based on 3.2% versus its own historical baseline and 11.3% versus similar routes. None of the retrieved notes apply to the Mumbai-Delhi route during the week of 2025-12-22 or provide a documented factor that could increase freight cost for that week.
+Mumbai-Pune,2024-01-01,3.3012764038642617,,10.04,Yes,,"Cost is unusually high based on 10.0% versus similar routes. All retrieved notes are dated in 2025 and do not apply to the week of 2024-01-01, so none provide a documented explanation for the cost increase."
+Mumbai-Pune,2024-01-08,3.3819401535881366,2.44,10.77,Yes,,"Cost is unusually high based on 2.4% versus its own historical baseline and 10.8% versus similar routes. All retrieved notes are dated in 2025 and refer to events occurring after the requested week of 2024-01-08, so none provide a temporally applicable explanation for the cost increase."
+Mumbai-Pune,2024-01-15,3.411523328211459,2.09,13.03,Yes,,"Cost is unusually high based on 2.1% versus its own historical baseline and 13.0% versus similar routes. None of the retrieved notes are dated or temporally applicable to the week of 2024-01-15, so they do not provide a documented explanation for the cost increase."
+Mumbai-Pune,2024-01-22,3.378891559642258,0.42,12.99,Yes,,"Cost is unusually high based on 0.4% versus its own historical baseline and 13.0% versus similar routes. None of the retrieved notes are dated for or refer to the week of 2024-01-22, so no documented factor explains the cost increase for that period."
+Mumbai-Pune,2024-01-29,3.279357822939943,-2.64,2.7,No,,Cost is within the expected range based on -2.6% versus its own historical baseline and 2.7% versus similar routes.
+Mumbai-Pune,2024-02-05,3.2905167729253826,-1.79,8.97,No,,Cost is within the expected range based on -1.8% versus its own historical baseline and 9.0% versus similar routes.
+Mumbai-Pune,2024-02-12,3.280938092322783,-1.79,5.35,No,,Cost is within the expected range based on -1.8% versus its own historical baseline and 5.4% versus similar routes.
+Mumbai-Pune,2024-02-19,3.380257680814391,1.45,12.89,Yes,,"Cost is unusually high based on 1.4% versus its own historical baseline and 12.9% versus similar routes. All retrieved notes are dated in 2025 and refer to events starting in 2025, which do not apply to the requested week of 2024-02-19; therefore none provide a documented explanation for the cost increase."
+Mumbai-Pune,2024-02-26,3.249925923123964,-2.64,4.97,No,,Cost is within the expected range based on -2.6% versus its own historical baseline and 5.0% versus similar routes.
+Mumbai-Pune,2024-03-04,3.40988377758577,2.35,13.63,Yes,,"Cost is unusually high based on 2.3% versus its own historical baseline and 13.6% versus similar routes. None of the retrieved notes are dated for or explicitly apply to the week of 2024-03-04, and they do not provide documented factors that could explain the observed cost increase for the Mumbai-Pune route."
+Mumbai-Pune,2024-03-11,3.3410955755219525,0.18,7.33,No,,Cost is within the expected range based on 0.2% versus its own historical baseline and 7.3% versus similar routes.
+Mumbai-Pune,2024-03-18,3.4145690569706963,2.65,10.88,Yes,,"Cost is unusually high based on 2.7% versus its own historical baseline and 10.9% versus similar routes. All retrieved notes are dated in 2025 and refer to events starting in 2025, which do not apply to the requested week of 2024-03-18."
+Mumbai-Pune,2024-03-25,3.5335160282395406,6.09,11.31,Yes,,"Cost is unusually high based on 6.1% versus its own historical baseline and 11.3% versus similar routes. None of the retrieved notes are dated for or explicitly apply to the week of 2024-03-25, and they do not provide documented factors that could explain the observed cost increase for the Mumbai-Pune route."
+Mumbai-Pune,2024-04-01,3.3289607115279054,-1.0,11.35,Yes,,Cost is unusually high based on -1.0% versus its own historical baseline and 11.3% versus similar routes. None of the retrieved notes are temporally applicable to the week of 2024-04-01 or provide evidence of a factor that could increase freight cost for that week.
+Mumbai-Pune,2024-04-08,3.4927382217499114,3.72,11.75,Yes,,"Cost is unusually high based on 3.7% versus its own historical baseline and 11.7% versus similar routes. All retrieved notes are dated in 2025 and do not apply to the week of 2024-04-08, so none provide a documented explanation for the cost increase."
+Mumbai-Pune,2024-04-15,3.5704215300961137,5.2,11.52,Yes,,"Cost is unusually high based on 5.2% versus its own historical baseline and 11.5% versus similar routes. None of the retrieved notes are dated or temporally applicable to the week of 2024-04-15, and they do not provide documented factors that could explain the observed cost increase for the Mumbai-Pune route."
+Mumbai-Pune,2024-04-22,3.325498646456372,-2.7,8.73,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and 8.7% versus similar routes.
+Mumbai-Pune,2024-04-29,3.515863395765816,2.59,14.36,Yes,,"Cost is unusually high based on 2.6% versus its own historical baseline and 14.4% versus similar routes. None of the retrieved notes are dated for or explicitly apply to the week of 2024-04-29, and they do not provide documented factors that could explain a cost increase for that period."
+Mumbai-Pune,2024-05-06,3.5040233403720964,1.85,13.2,Yes,,"Cost is unusually high based on 1.9% versus its own historical baseline and 13.2% versus similar routes. All retrieved notes are dated in 2025 and do not apply to the week of 2024-05-06, so none provide a documented explanation for the cost increase."
+Mumbai-Pune,2024-05-13,3.302187408752174,-4.58,7.89,No,,Cost is within the expected range based on -4.6% versus its own historical baseline and 7.9% versus similar routes.
+Mumbai-Pune,2024-05-20,3.342850460240507,-3.01,9.45,No,,Cost is within the expected range based on -3.0% versus its own historical baseline and 9.4% versus similar routes.
+Mumbai-Pune,2024-05-27,3.4444426250684543,0.63,10.89,Yes,,"Cost is unusually high based on 0.6% versus its own historical baseline and 10.9% versus similar routes. None of the retrieved notes are dated for or explicitly apply to the week of 2024-05-27, and they do not provide documented factors that could explain a cost increase for that period."
+Mumbai-Pune,2024-06-03,3.3796997914371216,-1.67,7.6,No,,Cost is within the expected range based on -1.7% versus its own historical baseline and 7.6% versus similar routes.
+Mumbai-Pune,2024-06-10,3.5335832714791575,3.23,16.59,Yes,,"Cost is unusually high based on 3.2% versus its own historical baseline and 16.6% versus similar routes. None of the retrieved notes are dated in or refer to the week of 2024-06-10, so they do not provide a documented explanation for the cost increase for that period."
+Mumbai-Pune,2024-06-17,3.3313720545795857,-2.55,4.94,No,,Cost is within the expected range based on -2.5% versus its own historical baseline and 4.9% versus similar routes.
+Mumbai-Pune,2024-06-24,3.3499966801441166,-2.03,8.11,No,,Cost is within the expected range based on -2.0% versus its own historical baseline and 8.1% versus similar routes.
+Mumbai-Pune,2024-07-01,3.366901029805101,-0.93,5.48,No,,Cost is within the expected range based on -0.9% versus its own historical baseline and 5.5% versus similar routes.
+Mumbai-Pune,2024-07-08,3.545795292762744,4.86,13.76,Yes,,"Cost is unusually high based on 4.9% versus its own historical baseline and 13.8% versus similar routes. All retrieved notes are dated in 2025 and refer to periods after the requested week of 2024-07-08, so none provide a temporally applicable explanation for the cost increase."
+Mumbai-Pune,2024-07-15,3.4441386306349915,0.95,11.54,Yes,,"Cost is unusually high based on 0.9% versus its own historical baseline and 11.5% versus similar routes. All retrieved notes are dated in 2025 and refer to periods after the requested week of 2024-07-15, so none provide a temporally applicable explanation for the cost increase."
+Mumbai-Pune,2024-07-22,3.5158347883043497,2.67,12.43,Yes,,"Cost is unusually high based on 2.7% versus its own historical baseline and 12.4% versus similar routes. All retrieved notes are dated in 2025 and refer to periods after the requested week of 2024-07-22, so none provide a temporally applicable explanation for the cost increase."
+Mumbai-Pune,2024-07-29,3.3899678886899896,-1.27,7.73,No,,Cost is within the expected range based on -1.3% versus its own historical baseline and 7.7% versus similar routes.
+Mumbai-Pune,2024-08-05,3.3705491485856367,-1.87,10.26,Yes,,"Cost is unusually high based on -1.9% versus its own historical baseline and 10.3% versus similar routes. All retrieved notes are dated in 2025 and refer to periods after the requested week of 2024-08-05, so none provide a temporally applicable explanation for the cost increase."
+Mumbai-Pune,2024-08-12,3.345202517962739,-2.02,11.41,Yes,,"Cost is unusually high based on -2.0% versus its own historical baseline and 11.4% versus similar routes. All retrieved notes are dated in 2025 and refer to events starting in 2025, which do not apply to the requested week of 2024-08-12; therefore none provide a documented explanation for the cost increase."
+Mumbai-Pune,2024-08-19,3.4217554669277734,0.17,11.26,Yes,,"Cost is unusually high based on 0.2% versus its own historical baseline and 11.3% versus similar routes. All retrieved notes are dated in 2025 and refer to events starting in 2025, which do not apply to the requested week of 2024-08-19."
+Mumbai-Pune,2024-08-26,3.391552846999231,-0.98,9.19,No,,Cost is within the expected range based on -1.0% versus its own historical baseline and 9.2% versus similar routes.
+Mumbai-Pune,2024-09-02,3.2876122855144962,-4.1,6.69,No,,Cost is within the expected range based on -4.1% versus its own historical baseline and 6.7% versus similar routes.
+Mumbai-Pune,2024-09-09,3.275052945172333,-3.56,3.33,No,,Cost is within the expected range based on -3.6% versus its own historical baseline and 3.3% versus similar routes.
+Mumbai-Pune,2024-09-16,3.4298100216753795,1.63,8.39,No,,Cost is within the expected range based on 1.6% versus its own historical baseline and 8.4% versus similar routes.
+Mumbai-Pune,2024-09-23,3.4678286744773614,3.09,10.03,Yes,,"Cost is unusually high based on 3.1% versus its own historical baseline and 10.0% versus similar routes. None of the retrieved notes are dated or refer to the week of 2024-09-23, so they do not provide a temporally applicable explanation for the cost increase."
+Mumbai-Pune,2024-09-30,3.422260503106949,1.44,13.48,Yes,,"Cost is unusually high based on 1.4% versus its own historical baseline and 13.5% versus similar routes. None of the retrieved notes are dated for or explicitly apply to the week of 2024-09-30, and they do not provide documented factors that could explain the observed cost increase for the Mumbai-Pune route."
+Mumbai-Pune,2024-10-07,3.513115662648373,3.93,13.75,Yes,,"Cost is unusually high based on 3.9% versus its own historical baseline and 13.8% versus similar routes. None of the retrieved notes are dated or temporally applicable to the week of 2024-10-07, so they do not provide documented evidence for the cost increase."
+Mumbai-Pune,2024-10-14,3.3544936903662665,-1.37,8.4,No,,Cost is within the expected range based on -1.4% versus its own historical baseline and 8.4% versus similar routes.
+Mumbai-Pune,2024-10-21,3.3375193199381763,-1.63,8.44,No,,Cost is within the expected range based on -1.6% versus its own historical baseline and 8.4% versus similar routes.
+Mumbai-Pune,2024-10-28,3.492012229583466,3.13,15.09,Yes,,"Cost is unusually high based on 3.1% versus its own historical baseline and 15.1% versus similar routes. All retrieved notes are dated in 2025, which is after the requested week of 2024-10-28, so none are temporally applicable to explain the cost increase."
+Mumbai-Pune,2024-11-04,3.422777826960083,0.33,13.83,Yes,,"Cost is unusually high based on 0.3% versus its own historical baseline and 13.8% versus similar routes. None of the retrieved notes are temporally applicable to the week of 2024-11-04, and they do not provide documented factors that could explain the observed cost increase."
+Mumbai-Pune,2024-11-11,3.4477457987285045,0.52,-17.38,No,,Cost is within the expected range based on 0.5% versus its own historical baseline and -17.4% versus similar routes.
+Mumbai-Pune,2024-11-18,3.4181105694547775,-0.41,-16.44,No,,Cost is within the expected range based on -0.4% versus its own historical baseline and -16.4% versus similar routes.
+Mumbai-Pune,2024-11-25,3.4319454636996314,0.17,12.24,Yes,,Cost is unusually high based on 0.2% versus its own historical baseline and 12.2% versus similar routes. None of the retrieved notes are temporally applicable to the week of 2024-11-25; all notes are dated in 2025 and refer to events starting after the requested week.
+Mumbai-Pune,2024-12-02,3.4404947051859063,0.39,12.99,Yes,,"Cost is unusually high based on 0.4% versus its own historical baseline and 13.0% versus similar routes. None of the retrieved notes are dated or temporally applicable to the week of 2024-12-02, so they do not provide a documented explanation for the cost increase."
+Mumbai-Pune,2024-12-09,3.428173097598024,0.29,6.42,No,,Cost is within the expected range based on 0.3% versus its own historical baseline and 6.4% versus similar routes.
+Mumbai-Pune,2024-12-16,3.54694667015038,3.49,15.28,Yes,,"Cost is unusually high based on 3.5% versus its own historical baseline and 15.3% versus similar routes. None of the retrieved notes are dated or temporally applicable to the week of 2024-12-16; they refer to events in 2025, so they do not explain the cost increase for the requested week."
+Mumbai-Pune,2024-12-23,3.506811493656316,1.54,12.66,Yes,,Cost is unusually high based on 1.5% versus its own historical baseline and 12.7% versus similar routes. None of the retrieved notes apply to the week of 2024-12-23 or provide a documented factor that could increase freight costs for that period.
+Mumbai-Pune,2024-12-30,3.4030431353329913,-1.51,5.74,No,,Cost is within the expected range based on -1.5% versus its own historical baseline and 5.7% versus similar routes.
+Mumbai-Pune,2025-01-06,3.498004118085469,1.31,10.36,Yes,,Cost is unusually high based on 1.3% versus its own historical baseline and 10.4% versus similar routes. None of the retrieved notes apply to the week of 2025-01-06 or provide evidence of a factor that could increase freight cost for that period.
+Mumbai-Pune,2025-01-13,3.52824798657291,2.0,15.84,Yes,,Cost is unusually high based on 2.0% versus its own historical baseline and 15.8% versus similar routes. None of the retrieved notes apply to the week of 2025-01-13 or provide a factor that could explain a cost increase for that period.
+Mumbai-Pune,2025-01-20,3.5041696201885406,0.9,14.42,Yes,,Cost is unusually high based on 0.9% versus its own historical baseline and 14.4% versus similar routes. None of the retrieved notes apply to the week of 2025-01-20 or provide a factor that could explain a cost increase for that period.
+Mumbai-Pune,2025-01-27,3.3862532527526548,-2.75,7.71,No,,Cost is within the expected range based on -2.7% versus its own historical baseline and 7.7% versus similar routes.
+Mumbai-Pune,2025-02-03,3.3323631936996736,-4.11,10.52,Yes,,Cost is unusually high based on -4.1% versus its own historical baseline and 10.5% versus similar routes. None of the retrieved notes apply to the week of 2025-02-03 or provide a factor that could explain a higher freight cost for that period.
+Mumbai-Pune,2025-02-10,3.387743897089414,-2.18,13.33,Yes,,Cost is unusually high based on -2.2% versus its own historical baseline and 13.3% versus similar routes. None of the retrieved notes apply to the week of 2025-02-10 or provide a factor that could increase freight costs for that period.
+Mumbai-Pune,2025-02-17,3.4085110589266203,-1.01,10.06,Yes,,Cost is unusually high based on -1.0% versus its own historical baseline and 10.1% versus similar routes. None of the retrieved notes apply to the week of 2025-02-17 or provide a documented factor that could increase freight cost for that period.
+Mumbai-Pune,2025-02-24,3.4104008182293066,-0.6,10.63,Yes,,Cost is unusually high based on -0.6% versus its own historical baseline and 10.6% versus similar routes. None of the retrieved notes apply to the week of 2025-02-24; they are dated later and refer to periods after the requested week.
+Mumbai-Pune,2025-03-03,3.500060963395835,1.98,8.74,No,,Cost is within the expected range based on 2.0% versus its own historical baseline and 8.7% versus similar routes.
+Mumbai-Pune,2025-03-10,3.515234273355121,2.42,10.44,Yes,,Cost is unusually high based on 2.4% versus its own historical baseline and 10.4% versus similar routes. None of the retrieved notes apply to the week of 2025-03-10 or provide a factor that could increase freight costs for that period.
+Mumbai-Pune,2025-03-17,3.3903911712024035,-1.17,10.13,Yes,,Cost is unusually high based on -1.2% versus its own historical baseline and 10.1% versus similar routes. None of the retrieved notes apply to the week of 2025-03-17 or provide a factor that could explain a higher freight cost for that period.
+Mumbai-Pune,2025-03-24,3.346795563408874,-2.04,6.61,No,,Cost is within the expected range based on -2.0% versus its own historical baseline and 6.6% versus similar routes.
+Mumbai-Pune,2025-03-31,3.232238210792435,-5.25,5.78,No,,Cost is within the expected range based on -5.3% versus its own historical baseline and 5.8% versus similar routes.
+Mumbai-Pune,2025-04-07,3.526217988209544,3.75,10.6,Yes,,Cost is unusually high based on 3.7% versus its own historical baseline and 10.6% versus similar routes. None of the retrieved notes apply to the week of 2025-04-07 or provide a documented factor that could explain the cost increase for the Mumbai-Pune route.
+Mumbai-Pune,2025-04-14,3.3993524808293762,-0.49,13.49,Yes,,Cost is unusually high based on -0.5% versus its own historical baseline and 13.5% versus similar routes. None of the retrieved notes apply to the week of 2025-04-14 or provide a factor that could explain a cost increase for that period.
+Mumbai-Pune,2025-04-21,3.293837437297759,-3.55,7.21,No,,Cost is within the expected range based on -3.6% versus its own historical baseline and 7.2% versus similar routes.
+Mumbai-Pune,2025-04-28,3.4147811612854055,0.42,12.56,Yes,,Cost is unusually high based on 0.4% versus its own historical baseline and 12.6% versus similar routes. None of the retrieved notes apply to the week of 2025-04-28 or provide a documented factor that could increase freight cost for that period.
+Mumbai-Pune,2025-05-05,3.6148072907849444,6.64,8.76,No,,Cost is within the expected range based on 6.6% versus its own historical baseline and 8.8% versus similar routes.
+Mumbai-Pune,2025-05-12,3.59340162865612,5.62,12.83,No,N003,"Diesel prices rose nationwide starting the week of 2025-05-05, which would increase transportation costs for all routes, including Mumbai-Pune, during the requested week."
+Mumbai-Pune,2025-05-19,3.473754965104235,1.34,4.52,No,,Cost is within the expected range based on 1.3% versus its own historical baseline and 4.5% versus similar routes.
+Mumbai-Pune,2025-05-26,3.4776225769669327,0.99,6.03,No,,Cost is within the expected range based on 1.0% versus its own historical baseline and 6.0% versus similar routes.
+Mumbai-Pune,2025-06-02,3.5712448138602655,2.79,13.62,No,N003,"The note reports that diesel prices rose nationwide starting the week of 2025-05-05, which would increase transportation costs on all routes—including Mumbai‑Pune—during the requested week of 2025-06-02."
+Mumbai-Pune,2025-06-09,3.4744843480385486,-0.15,6.03,No,,Cost is within the expected range based on -0.2% versus its own historical baseline and 6.0% versus similar routes.
+Mumbai-Pune,2025-06-16,3.7195322652769782,6.6,12.97,No,N003,"The note reports that diesel prices rose nationwide starting the week of 2025-05-05, which would continue to increase transportation costs in subsequent weeks, including the week of 2025-06-16."
+Mumbai-Pune,2025-06-23,3.762226915526251,6.2,20.56,No,N003,"The note reports that diesel prices rose nationwide starting the week of 2025-05-05, which would increase transportation costs on all routes—including Mumbai‑Pune—through subsequent weeks such as the requested week of 2025-06-23."
+Mumbai-Pune,2025-06-30,3.544290194316084,-1.16,6.26,No,,Cost is within the expected range based on -1.2% versus its own historical baseline and 6.3% versus similar routes.
+Mumbai-Pune,2025-07-07,3.6399161219497604,1.76,12.73,No,N003,"The note reports that diesel prices rose nationwide starting the week of 2025-05-05, increasing transportation costs on all routes; this ongoing fuel price increase can explain the higher freight cost for Mumbai‑Pune in the week of 2025-07-07."
+Mumbai-Pune,2025-07-14,3.591668966570678,0.25,5.87,No,,Cost is within the expected range based on 0.2% versus its own historical baseline and 5.9% versus similar routes.
+Mumbai-Pune,2025-07-21,3.5276350809882038,-1.95,10.04,No,N003,"Note N003 reports a nationwide diesel price rise that started on 2025-05-05 and would still be affecting transportation costs in the week of 2025-07-21, providing a documented factor that can increase freight costs."
+Mumbai-Pune,2025-07-28,3.563538464323174,-1.12,6.81,No,,Cost is within the expected range based on -1.1% versus its own historical baseline and 6.8% versus similar routes.
+Mumbai-Pune,2025-08-04,3.725071824316962,3.39,11.65,Yes,,Cost is unusually high based on 3.4% versus its own historical baseline and 11.6% versus similar routes. None of the retrieved notes provide a temporally applicable explanation for higher freight cost in the week of 2025-08-04; the only note about diesel price increases refers to a rise starting in early May without confirming it persisted into August.
+Mumbai-Pune,2025-08-11,3.530658775963705,-2.85,4.71,No,,Cost is within the expected range based on -2.9% versus its own historical baseline and 4.7% versus similar routes.
+Mumbai-Pune,2025-08-18,3.785222203965166,4.84,15.47,Yes,,Cost is unusually high based on 4.8% versus its own historical baseline and 15.5% versus similar routes. None of the retrieved notes explicitly apply to the week of 2025-08-18 or provide a documented factor that could explain the cost increase for that period.
+Mumbai-Pune,2025-08-25,3.6318250152556755,0.51,12.43,Yes,,Cost is unusually high based on 0.5% versus its own historical baseline and 12.4% versus similar routes. None of the retrieved notes are temporally applicable to the week of 2025-08-25 or provide a documented factor that could explain the cost increase for the Mumbai-Pune route.
+Mumbai-Pune,2025-09-01,3.6688614473543484,1.23,6.29,No,,Cost is within the expected range based on 1.2% versus its own historical baseline and 6.3% versus similar routes.
+Mumbai-Pune,2025-09-08,3.717366853281151,2.46,14.41,No,N003,"The note states that diesel prices rose nationwide starting the week of 2025-05-05, raising transportation costs across all routes; this ongoing fuel cost increase can explain the higher freight cost for Mumbai‑Pune in the week of 2025-09-08."
+Mumbai-Pune,2025-09-15,3.9808099888616932,9.25,23.63,No,N003,"Note N003 reports a nationwide diesel price increase that started the week of 2025-05-05, which would continue to raise transportation costs on all routes, including Mumbai‑Pune, during the week of 2025-09-15."
+Mumbai-Pune,2025-09-22,3.7968730320939077,2.61,18.16,Yes,,Cost is unusually high based on 2.6% versus its own historical baseline and 18.2% versus similar routes. None of the retrieved notes document a factor that could increase freight cost for the Mumbai-Pune route during the week of 2025-09-22.
+Mumbai-Pune,2025-09-29,3.8206351798426263,2.44,11.2,No,N003,"Note N003 reports a nationwide diesel price increase that began in early May and affected all routes, providing a documented factor that can raise transportation costs during the September 29, 2025 week."
+Mumbai-Pune,2025-10-06,3.941933793159432,5.36,22.89,Yes,,"Cost is unusually high based on 5.4% versus its own historical baseline and 22.9% versus similar routes. None of the retrieved notes provide a temporally applicable explanation for the cost increase in the week of 2025-10-06; the diesel price note applies only to May 2025, the demand note reports stability, and the tracking mandate note states no rate change."
+Mumbai-Pune,2025-10-13,3.865549212043615,1.91,16.99,Yes,,"Cost is unusually high based on 1.9% versus its own historical baseline and 17.0% versus similar routes. None of the retrieved notes provide a temporally applicable explanation for higher freight cost in the week of 2025-10-13; the diesel price note applies only to May 2025, the demand note reports stability, and the tracking mandate note states no rate change."
+Mumbai-Pune,2025-10-20,4.095333723524663,7.69,24.83,Yes,,Cost is unusually high based on 7.7% versus its own historical baseline and 24.8% versus similar routes. None of the retrieved notes document a factor that could increase freight cost for the Mumbai-Pune route during the week of 2025-10-20.
+Mumbai-Pune,2025-10-27,4.073233796244364,5.5,28.26,Yes,,"Cost is unusually high based on 5.5% versus its own historical baseline and 28.3% versus similar routes. None of the retrieved notes apply to the week of 2025-10-27 with a factor that could increase freight costs; the diesel price note is from May, the demand note reports stability, and the vehicle tracking mandate note states costs were absorbed without rate changes."
+Mumbai-Pune,2025-11-03,4.1993747238930235,7.36,24.07,Yes,,"Cost is unusually high based on 7.4% versus its own historical baseline and 24.1% versus similar routes. None of the retrieved notes describe a factor that could increase freight cost for the Mumbai-Pune route during the week of 2025-11-03; the diesel price note applies only to the week it started in May, and the other notes report stable demand or no rate change."
+Mumbai-Pune,2025-11-10,3.9680310840963298,-0.09,21.43,Yes,,"Cost is unusually high based on -0.1% versus its own historical baseline and 21.4% versus similar routes. None of the retrieved notes document a factor that clearly affected the Mumbai-Pune route during the week of 2025-11-10; the diesel price note refers to a rise starting in May without confirming it persisted into November, and the other notes describe stable demand or absorbed costs."
+Mumbai-Pune,2025-11-17,4.322076630701151,8.87,31.61,Yes,,Cost is unusually high based on 8.9% versus its own historical baseline and 31.6% versus similar routes. None of the retrieved notes provide a temporally applicable factor that could explain the cost increase for the Mumbai-Pune route during the week of 2025-11-17.
+Mumbai-Pune,2025-11-24,4.15642174319512,2.99,23.05,Yes,,Cost is unusually high based on 3.0% versus its own historical baseline and 23.0% versus similar routes. None of the retrieved notes provide a temporally applicable factor that could explain the higher freight cost for the Mumbai-Pune route in the week of 2025-11-24.
+Mumbai-Pune,2025-12-01,4.39279820396953,7.73,37.39,No,N003,"The note reports that diesel prices rose nationwide starting the week of 2025-05-05, which would increase transportation costs on all routes, including Mumbai-Pune, for subsequent weeks such as 2025-12-01."
+Mumbai-Pune,2025-12-08,4.43194078435407,7.2,38.8,No,N003,"The note reports that diesel prices rose nationwide starting the week of 2025-05-05, increasing transportation costs across all routes; this ongoing fuel price increase can explain the higher freight cost in the week of 2025-12-08."
+Mumbai-Pune,2025-12-15,4.388091164267901,4.36,35.5,Yes,,Cost is unusually high based on 4.4% versus its own historical baseline and 35.5% versus similar routes. None of the retrieved notes are temporally applicable to the week of 2025-12-15 or provide a documented factor that could explain the cost increase for the Mumbai-Pune route.
+Mumbai-Pune,2025-12-22,4.485336320121254,5.75,38.91,No,N003,"The note reports that diesel prices rose nationwide starting the week of 2025-05-05, increasing transportation costs across all routes by 5‑7%, which provides a documented factor that could raise freight costs for the Mumbai‑Pune route in the week of 2025-12-22."

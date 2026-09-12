@@ -1,0 +1,11 @@
+case_id,route,week_of,expected_support,expected_note_id,gold_reason
+1,Ahmedabad-Mumbai,20-01-2025,TRUE,N002,Exact route and week of festival surcharge.
+2,Chennai-Bangalore,24-02-2025,TRUE,N001,Flooding starts on Feb 24 and affected this corridor.
+3,Chennai-Bangalore,03-03-2025,TRUE,N001,Flooding note explicitly covers Feb 24-Mar 8.
+4,Chennai-Bangalore,10-03-2025,FALSE,,N001 event ended Mar 8; requested week is outside its valid period.
+5,Chennai-Bangalore,05-05-2025,TRUE,N003,Nationwide diesel-price increase starts this week and raises transportation costs.
+6,Mumbai-Delhi,22-09-2025,FALSE,,N005 says maintenance caused minor delays but costs were not significantly affected.
+7,Kolkata-Bhubaneswar,22-09-2025,FALSE,,N008 says no significant disruptions and normal freight movement; it does not explain a cost increase.
+8,Delhi-Jaipur,11-11-2024,FALSE,,"N007 is dated May 20, 2024 and does not indicate applicability to the requested week."
+9,Ahmedabad-Mumbai,05-05-2025,TRUE,N003,N003 is a nationwide diesel-price increase starting this week and applies to all routes.
+10,Delhi-Chennai,05-05-2025,TRUE,N003,N003 is a nationwide diesel-price increase starting this week and applies to all routes.

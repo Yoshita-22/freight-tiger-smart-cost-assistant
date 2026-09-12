@@ -192,7 +192,7 @@ def flag_anomalies(
         weekly["vs_similar_routes"] >= threshold_pct
     )
 
-    weekly["is_anamalous"] = (
+    weekly["is_anomalous"] = (
         own_history_anomaly
         | similar_route_anomaly
     )
@@ -204,7 +204,7 @@ def flag_anomalies(
         & weekly["similar_routes_avg"].isna()
     )
 
-    weekly.loc[no_baseline, "is_anamalous"] = False
+    weekly.loc[no_baseline, "is_anomalous"] = False
 
     return weekly
 
